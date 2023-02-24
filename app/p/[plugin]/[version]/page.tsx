@@ -18,11 +18,11 @@ async function getPlugin(name: string, version: string): Promise<Plugin | undefi
   return plugins.find(obj => obj.name === name && obj.version === version);
 }
 
-async function getReadmeContents(plugin: Plugin): Promise<string> {
+async function getReadmeContents(plugin: Plugin): Promise<string | null> {
   const res = await fetch(`https://raw.githubusercontent.com/${plugin.repo_name}/${plugin.build_commit}/README.md`);
 
   if (!res.ok) {
-    return "";
+    return null;
   }
 
   return res.text();
@@ -37,6 +37,25 @@ export default async function Page({ params }: { params: { plugin: string, versi
 
   if (!plugin) {
     return <h1>Plugin not found</h1>;
+  }
+
+  const readmeContents = await getReadmeContents(plugin);
+
+  if (!readmeContents) {
+    return (
+      <>
+        <Navbar />
+
+        <div className="mt-10">
+          <h1 className="font-bold text-3xl text-center text-gray-900 dark:text-white">
+            Plugin not found
+          </h1>
+          <p className="text-center text-gray-900 dark:text-white">
+            The author may have renamed their github username, deleted their github account, or deleted the plugin repository.
+          </p>
+        </div>
+      </>
+    );
   }
 
   return (
@@ -78,7 +97,7 @@ export default async function Page({ params }: { params: { plugin: string, versi
             <div className="flex flex-col-reverse lg:flex-row lg:gap-x-6 gap-y-4">
               <div className="w-full rounded-md !bg-white dark:!bg-gray-800 p-5 overflow-auto">
                   <span className="markdown-body">
-                    {await getReadmeContents(plugin).then(renderMarkdown)}
+                    {await renderMarkdown(readmeContents)}
                   </span>
               </div>
 
