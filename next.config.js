@@ -5,6 +5,17 @@ const nextConfig = {
     // Required:
     appDir: true,
   },
+  images: {
+    domains: ['raw.githubusercontent.com', 'github.com'],
+  },
+  async rewrites() {
+    return [
+      {
+        source: '/download/:id*',
+        destination: 'https://poggit.pmmp.io/r/:id*',
+      }
+    ]
+  }
 };
 
 module.exports = nextConfig;

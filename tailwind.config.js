@@ -3,7 +3,10 @@ module.exports = {
   content: [
     './app/**/*.{js,ts,jsx,tsx}',
     './page/**/*.{js,ts,jsx,tsx}',
-    './ui/**/*.{js,ts,jsx,tsx}',
+    "./components/**/*.{js,ts,jsx,tsx}",
+  ],
+  plugins: [
+    require('@tailwindcss/aspect-ratio'),
   ],
   theme: {
     extend: {
