@@ -5,7 +5,7 @@ import PocketMineRelease from '../../../../types/PocketMineRelease';
 import Pagination from '@/components/pagination/Pagination';
 
 async function getPlugins() {
-  const res = await fetch('https://raw.githubusercontent.com/brokiem/better-poggit/master/public/releases.json');
+  const res = await fetch('https://raw.githubusercontent.com/brokiem/better-poggit/master/public/releases.json', { next: { revalidate: 300 } });
 
   if (!res.ok) {
     throw new Error('Failed to fetch data');
@@ -15,7 +15,7 @@ async function getPlugins() {
 }
 
 async function getPocketMineRelease() {
-  const res = await fetch('https://update.pmmp.io/api');
+  const res = await fetch('https://update.pmmp.io/api', { next: { revalidate: 3600 } });
 
   if (!res.ok) {
     throw new Error('Failed to fetch data');
