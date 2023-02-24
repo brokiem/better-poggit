@@ -28,8 +28,8 @@ body {
 }
 
 .slide-up {
-    transform: translateY(0.8rem);
-    transition: transform 0.4s;
+    transform: translateY(0.5rem);
+    transition: transform 0.2s;
 }
 
 .slide-up:hover {
