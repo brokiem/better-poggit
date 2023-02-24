@@ -34,15 +34,7 @@ export default function Navbar({page, search}: {page?: string, search?: string})
               </div>
 
               <div className="flex flex-1 items-center sm:items-stretch justify-start">
-                <div className="flex flex-shrink-0 items-center">
-                  <img
-                    className="hidden h-8 w-auto md:block"
-                    src="https://tailwindui.com/img/logos/mark.svg?color=indigo&shade=500"
-                    alt="BetterPoggit"
-                  />
-                </div>
-
-                <div className="hidden sm:ml-6 sm:block">
+                <div className="hidden sm:block">
                   <div className="flex space-x-4">
                     {navigation.map((item) => (
                       <a
