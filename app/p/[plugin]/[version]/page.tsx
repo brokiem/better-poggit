@@ -46,7 +46,7 @@ export default async function Page({ params }: { params: { plugin: string, versi
       <>
         <Navbar />
 
-        <div className="mt-10">
+        <div className="mt-10 p-6">
           <h1 className="font-bold text-3xl text-center text-gray-900 dark:text-white">
             Plugin not found
           </h1>
