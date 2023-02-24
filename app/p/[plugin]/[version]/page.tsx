@@ -7,7 +7,7 @@ import '../../../../styles/github-markdown.css'
 import Image from 'next/image';
 
 async function getPlugin(name: string, version: string): Promise<Plugin | undefined> {
-  const res = await fetch('http://localhost/releases.json');
+  const res = await fetch('https://raw.githubusercontent.com/brokiem/better-poggit/master/public/releases.json');
 
   if (!res.ok) {
     throw new Error('Failed to fetch data');
