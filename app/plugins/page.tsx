@@ -15,7 +15,7 @@ async function getPlugins() {
 }
 
 async function getPocketMineRelease() {
-  const res = await fetch('https://update.pmmp.io/api');
+  const res = await fetch('https://update.pmmp.io/api', { next: { revalidate: 3600 } });
 
   if (!res.ok) {
     throw new Error('Failed to fetch data');
