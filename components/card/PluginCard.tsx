@@ -26,7 +26,7 @@ export function PluginCard({ plugin }: { plugin: Plugin }) {
   }, []);
 
   return (
-    <a href={"/p/" + plugin.name + "/" + plugin.version}>
+    <a href={"/p/" + plugin.name + "/" + plugin.version} className="slide-up">
       <div className="max-w-full bg-white rounded-lg shadow dark:bg-gray-800">
         {
           plugin.icon_url !== null && imageLoaded ?
