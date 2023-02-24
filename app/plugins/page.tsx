@@ -35,8 +35,12 @@ function isApiCompatibleWithRelease(plugin: Plugin, release: PocketMineRelease):
   return false;
 }
 
-async function sortPlugins(plugins: Plugin[]): Promise<Plugin[]> {
-  const pocketMineRelease: PocketMineRelease = await getPocketMineRelease();
+async function sortPlugins(): Promise<Plugin[]> {
+  const [plugins, pocketMineRelease]: [Plugin[], PocketMineRelease] = await Promise.all([
+    getPlugins(),
+    getPocketMineRelease()
+  ]);
+
   const uniqueObjects: Record<string, Plugin> = {};
 
   // loop through the array and add each object to the uniqueObjects object,
@@ -70,8 +74,7 @@ async function sortPlugins(plugins: Plugin[]): Promise<Plugin[]> {
 }
 
 export default async function Page() {
-  const plugins: Plugin[] = await getPlugins();
-  const latestPlugins: Plugin[] = await sortPlugins(plugins);
+  const latestPlugins = await sortPlugins();
 
   const itemsPerPage = 10;
   const startIndex = 0;
