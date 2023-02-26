@@ -9,5 +9,4 @@ RUN yarn install --production=true
 
 COPY . .
 
-CMD ["yarn", "build"]
-CMD ["yarn", "start"]
+CMD ["sh", "-c", "yarn build && yarn start"]
