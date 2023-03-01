@@ -86,7 +86,7 @@ export default async function Page({ params }: { params: { page: string } }) {
     <>
       <Navbar page="Releases"/>
 
-      <div className='mx-auto max-w-3xl py-10 px-4 sm:px-4 lg:max-w-7xl lg:px-8'>
+      <div className='mx-auto max-w-3xl pt-10 pb-16 px-4 sm:px-4 lg:max-w-7xl lg:px-8'>
         <span className='sr-only'>Plugins</span>
 
         <div className='grid grid-cols-[repeat(auto-fill,minmax(14rem,1fr))] gap-4'>
