@@ -6,7 +6,7 @@ export default function Loading() {
     <>
       <Navbar page="Releases"/>
 
-      <div className='mx-auto max-w-3xl py-10 px-4 sm:px-4 lg:max-w-7xl lg:px-8'>
+      <div className='mx-auto max-w-3xl pt-10 pb-16 px-4 sm:px-4 lg:max-w-7xl lg:px-8'>
         <span className='sr-only'>Plugins</span>
 
         <div className="mb-6 w-[40%] h-4 bg-gray-300 rounded dark:bg-gray-700"></div>

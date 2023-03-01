@@ -99,7 +99,7 @@ export default async function Page({ params }: { params: { plugin: string } }) {
     <>
       <Navbar page="Releases"/>
 
-      <div className='mx-auto max-w-3xl py-10 px-4 sm:px-4 lg:max-w-7xl lg:px-8'>
+      <div className='mx-auto max-w-3xl pt-10 pb-16 px-4 sm:px-4 lg:max-w-7xl lg:px-8'>
         <h1 className="mb-6 text-md font-bold text-gray-900 dark:text-white">Displaying around {searchedPlugins.length} plugins for the search parameter '{params.plugin}'.</h1>
         <span className='sr-only'>Plugins</span>
 
