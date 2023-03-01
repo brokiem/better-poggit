@@ -2,32 +2,13 @@ import Navbar from '@/components/navbar/Navbar';
 import { PluginCard } from '@/components/card/PluginCard';
 import Plugin from '../../../../types/Plugin';
 import PocketMineRelease from '../../../../types/PocketMineRelease';
-
-async function getPlugins() {
-  const res = await fetch('https://raw.githubusercontent.com/brokiem/better-poggit/master/public/releases.json', { next: { revalidate: 300 } });
-
-  if (!res.ok) {
-    throw new Error('Failed to fetch data');
-  }
-
-  return res.json();
-}
-
-async function getPocketMineRelease() {
-  const res = await fetch('https://update.pmmp.io/api', { next: { revalidate: 3600 } });
-
-  if (!res.ok) {
-    throw new Error('Failed to fetch data');
-  }
-
-  return res.json();
-}
+import { getPlugins, getPocketMineRelease } from '../../../../lib/data';
 
 function isApiCompatibleWithRelease(plugin: Plugin, release: PocketMineRelease): boolean {
   const releaseMajor = parseInt(release.base_version.split('.')[0]);
   for (const api of plugin.api) {
     const apiMajor = parseInt(api.from.split('.')[0]);
-    if (apiMajor === releaseMajor && parseFloat(api.from) <= parseFloat(release.base_version) && parseFloat(api.to) >= parseFloat(release.base_version)) {
+    if (apiMajor === releaseMajor/* && parseFloat(api.from) <= parseFloat(release.base_version) && parseFloat(api.to) >= parseFloat(release.base_version)*/) {
       return true;
     }
   }

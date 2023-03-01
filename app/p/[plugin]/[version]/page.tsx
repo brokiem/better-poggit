@@ -5,27 +5,12 @@ import remarkGfm from 'remark-gfm'
 import rehypeRaw from 'rehype-raw'
 import '../../../../styles/github-markdown.css'
 import Image from 'next/image';
+import { getPlugins, getReadmeContents } from '../../../../lib/data';
 
 async function getPlugin(name: string, version: string): Promise<Plugin | undefined> {
-  const res = await fetch('https://raw.githubusercontent.com/brokiem/better-poggit/master/public/releases.json', { next: { revalidate: 300 } });
-
-  if (!res.ok) {
-    throw new Error('Failed to fetch data');
-  }
-
-  const plugins: Plugin[] = await res.json();
+  const plugins: Plugin[] = await getPlugins();
 
   return plugins.find(obj => obj.name === name && obj.version === version);
-}
-
-async function getReadmeContents(plugin: Plugin): Promise<string | null> {
-  const res = await fetch(`https://raw.githubusercontent.com/${plugin.repo_name}/${plugin.build_commit}/README.md`);
-
-  if (!res.ok) {
-    return null;
-  }
-
-  return res.text();
 }
 
 async function renderMarkdown(markdown: string): Promise<JSX.Element> {

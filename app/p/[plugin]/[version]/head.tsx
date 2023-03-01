@@ -1,13 +1,8 @@
 import Plugin from '../../../../types/Plugin';
+import { getPlugins } from '../../../../lib/data';
 
 async function getPlugin(name: string, version: string): Promise<Plugin | undefined> {
-  const res = await fetch('https://raw.githubusercontent.com/brokiem/better-poggit/master/public/releases.json', { next: { revalidate: 300 } });
-
-  if (!res.ok) {
-    throw new Error('Failed to fetch data');
-  }
-
-  const plugins: Plugin[] = await res.json();
+  const plugins: Plugin[] = await getPlugins();
 
   return plugins.find(obj => obj.name === name && obj.version === version);
 }
