@@ -73,7 +73,7 @@ export function PluginCard({ plugin }: { plugin: Plugin }) {
           <div className="flex justify-between gap-2">
             { isMounted ?
               <div className="flex items-center">
-                <a href={`/download/${plugin.artifact_url.match(/\d+$/)?.[0]}/${plugin.name}.phar`} className="px-2 border border-transparent text-sm font-medium rounded-md shadow-sm text-white bg-blue-600 hover:bg-blue-700 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-blue-500">
+                <a href={`/download/${plugin.artifact_url.match(/\d+$/)?.[0]}/${plugin.name}.phar`} className="px-2 border border-transparent text-sm font-medium rounded-md shadow-sm text-white bg-blue-600 hover:bg-blue-700 focus:outline-none focus:ring-1 focus:ring-blue-500">
                   Download
                 </a>
               </div>

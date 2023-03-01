@@ -90,7 +90,7 @@ export default async function Page({ params }: { params: { plugin: string, versi
                 <div className="rounded-md !bg-white dark:!bg-gray-800 p-5">
                   <h2 className="text-xl font-bold text-gray-900 dark:text-gray-200 mb-3 leading-none">Actions</h2>
 
-                  <a href={`/download/${plugin.artifact_url.match(/\d+$/)?.[0]}/${plugin.name}.phar`} type="button" className="flex w-full items-center justify-center rounded-md border border-transparent bg-indigo-600 py-2 px-8 text-base font-medium text-white hover:bg-indigo-700 focus:outline-none focus:ring-2 focus:ring-indigo-500 focus:ring-offset-2">
+                  <a href={`/download/${plugin.artifact_url.match(/\d+$/)?.[0]}/${plugin.name}.phar`} type="button" className="flex w-full items-center justify-center rounded-md border border-transparent bg-indigo-600 py-2 px-8 text-base font-medium text-white hover:bg-indigo-700 focus:outline-none focus:ring-1 focus:ring-indigo-500">
                     Download
                   </a>
 
