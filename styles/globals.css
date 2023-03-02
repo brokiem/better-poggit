@@ -27,6 +27,10 @@ body {
     border-radius: 0.5rem;
 }
 
+.slide-up-without-hover {
+    transform: translateY(0.5rem);
+}
+
 .slide-up {
     transform: translateY(0.5rem);
     transition: transform 0.2s;
