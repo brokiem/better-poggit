@@ -57,7 +57,7 @@ export default async function Page({ params }: { params: { plugin: string } }) {
   const latestPlugins = await sortPlugins();
   const searchedPlugins = latestPlugins.filter((plugin) => plugin.name.toLowerCase().includes(params.plugin.toLowerCase()));
 
-  if (!searchedPlugins) {
+  if (searchedPlugins.length <= 0) {
     return (
       <>
         <Navbar page="Releases" search={params.plugin} />
@@ -65,12 +65,10 @@ export default async function Page({ params }: { params: { plugin: string } }) {
         <div className='mx-auto max-w-3xl py-10 px-4 sm:px-4 lg:max-w-7xl lg:px-8'>
           <span className='sr-only'>Plugins</span>
 
-          <div className='grid grid-cols-[repeat(auto-fill,minmax(14rem,1fr))] gap-4'>
             <div className="flex flex-col justify-center items-center">
-              <h1 className="text-4xl font-bold text-gray-700">No plugins found</h1>
-              <p className="text-gray-500">Try searching for something else</p>
+              <h1 className="text-4xl font-bold text-gray-700 dark:text-white">No plugins found</h1>
+              <p className="text-gray-500 dark:text-gray-200">Try searching for something else</p>
             </div>
-          </div>
         </div>
       </>
     );
