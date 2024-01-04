@@ -6,1777 +6,1777 @@
             http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
 
 <url>
-  <loc>https://better-poggit.hop.sh/</loc>
+  <loc>https://better-poggit.vercel.app/</loc>
   <lastmod>2023-02-25T03:50:07+00:00</lastmod>
   <priority>1.00</priority>
 </url>
 <url>
-  <loc>https://better-poggit.hop.sh/plugins</loc>
+  <loc>https://better-poggit.vercel.app/plugins</loc>
   <lastmod>2023-02-25T03:50:07+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://better-poggit.hop.sh/p/BadWordBlocker/1.2.15</loc>
+  <loc>https://better-poggit.vercel.app/p/BadWordBlocker/1.2.15</loc>
   <lastmod>2023-02-25T03:50:07+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://better-poggit.hop.sh/p/DeathHead/1.0.0</loc>
+  <loc>https://better-poggit.vercel.app/p/DeathHead/1.0.0</loc>
   <lastmod>2023-02-25T03:50:07+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://better-poggit.hop.sh/p/BowTime/1.0.0</loc>
+  <loc>https://better-poggit.vercel.app/p/BowTime/1.0.0</loc>
   <lastmod>2023-02-25T03:50:07+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://better-poggit.hop.sh/p/CustomPVP/1.0.0</loc>
+  <loc>https://better-poggit.vercel.app/p/CustomPVP/1.0.0</loc>
   <lastmod>2023-02-25T03:50:07+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://better-poggit.hop.sh/p/NightPVP/1.0</loc>
+  <loc>https://better-poggit.vercel.app/p/NightPVP/1.0</loc>
   <lastmod>2023-02-25T03:50:07+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://better-poggit.hop.sh/p/GetPing/0.1.0</loc>
+  <loc>https://better-poggit.vercel.app/p/GetPing/0.1.0</loc>
   <lastmod>2023-02-25T03:50:07+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://better-poggit.hop.sh/p/TNTTag/0.0.2</loc>
+  <loc>https://better-poggit.vercel.app/p/TNTTag/0.0.2</loc>
   <lastmod>2023-02-25T03:50:07+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://better-poggit.hop.sh/p/InfinitSlots/1.0.0</loc>
+  <loc>https://better-poggit.vercel.app/p/InfinitSlots/1.0.0</loc>
   <lastmod>2023-02-25T03:50:07+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://better-poggit.hop.sh/p/Freedom/1.0.0</loc>
+  <loc>https://better-poggit.vercel.app/p/Freedom/1.0.0</loc>
   <lastmod>2023-02-25T03:50:07+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://better-poggit.hop.sh/p/BuildBattle/0.0.1</loc>
+  <loc>https://better-poggit.vercel.app/p/BuildBattle/0.0.1</loc>
   <lastmod>2023-02-25T03:50:07+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://better-poggit.hop.sh/plugins/page/1</loc>
+  <loc>https://better-poggit.vercel.app/plugins/page/1</loc>
   <lastmod>2023-02-25T03:50:07+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://better-poggit.hop.sh/plugins/page/2</loc>
+  <loc>https://better-poggit.vercel.app/plugins/page/2</loc>
   <lastmod>2023-02-25T03:50:07+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://better-poggit.hop.sh/plugins/page/3</loc>
+  <loc>https://better-poggit.vercel.app/plugins/page/3</loc>
   <lastmod>2023-02-25T03:50:07+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://better-poggit.hop.sh/plugins/page/4</loc>
+  <loc>https://better-poggit.vercel.app/plugins/page/4</loc>
   <lastmod>2023-02-25T03:50:07+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://better-poggit.hop.sh/plugins/page/44</loc>
+  <loc>https://better-poggit.vercel.app/plugins/page/44</loc>
   <lastmod>2023-02-25T03:50:07+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://better-poggit.hop.sh/p/BadWordBlocker/CONTRIBUTING.md</loc>
+  <loc>https://better-poggit.vercel.app/p/BadWordBlocker/CONTRIBUTING.md</loc>
   <lastmod>2023-02-25T03:50:07+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://better-poggit.hop.sh/p/iLand/1.0.2</loc>
+  <loc>https://better-poggit.vercel.app/p/iLand/1.0.2</loc>
   <lastmod>2023-02-25T03:50:07+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://better-poggit.hop.sh/p/Worlds/4.0.0</loc>
+  <loc>https://better-poggit.vercel.app/p/Worlds/4.0.0</loc>
   <lastmod>2023-02-25T03:50:07+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://better-poggit.hop.sh/p/NickUI/1.2.0</loc>
+  <loc>https://better-poggit.vercel.app/p/NickUI/1.2.0</loc>
   <lastmod>2023-02-25T03:50:07+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://better-poggit.hop.sh/p/KygekTagsShop/1.0.0</loc>
+  <loc>https://better-poggit.vercel.app/p/KygekTagsShop/1.0.0</loc>
   <lastmod>2023-02-25T03:50:07+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://better-poggit.hop.sh/p/ImageOnMap/1.0.3</loc>
+  <loc>https://better-poggit.vercel.app/p/ImageOnMap/1.0.3</loc>
   <lastmod>2023-02-25T03:50:07+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://better-poggit.hop.sh/p/FunBlockOneBlock/1.0.0-BETA-2</loc>
+  <loc>https://better-poggit.vercel.app/p/FunBlockOneBlock/1.0.0-BETA-2</loc>
   <lastmod>2023-02-25T03:50:07+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://better-poggit.hop.sh/p/HotBlock/1.2.0</loc>
+  <loc>https://better-poggit.vercel.app/p/HotBlock/1.2.0</loc>
   <lastmod>2023-02-25T03:50:07+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://better-poggit.hop.sh/p/BirthdaysPE/1.0.0</loc>
+  <loc>https://better-poggit.vercel.app/p/BirthdaysPE/1.0.0</loc>
   <lastmod>2023-02-25T03:50:07+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://better-poggit.hop.sh/p/BetterCancel/1.0.1-beta</loc>
+  <loc>https://better-poggit.vercel.app/p/BetterCancel/1.0.1-beta</loc>
   <lastmod>2023-02-25T03:50:07+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://better-poggit.hop.sh/p/C20s-Actions/0.0.1</loc>
+  <loc>https://better-poggit.vercel.app/p/C20s-Actions/0.0.1</loc>
   <lastmod>2023-02-25T03:50:07+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://better-poggit.hop.sh/p/EconomyEnchant/1.0.3</loc>
+  <loc>https://better-poggit.vercel.app/p/EconomyEnchant/1.0.3</loc>
   <lastmod>2023-02-25T03:50:07+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://better-poggit.hop.sh/p/HypixelBow/1.0.8</loc>
+  <loc>https://better-poggit.vercel.app/p/HypixelBow/1.0.8</loc>
   <lastmod>2023-02-25T03:50:07+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://better-poggit.hop.sh/p/HideCommands/2.0.4</loc>
+  <loc>https://better-poggit.vercel.app/p/HideCommands/2.0.4</loc>
   <lastmod>2023-02-25T03:50:07+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://better-poggit.hop.sh/p/WorldProtect/2.3.14</loc>
+  <loc>https://better-poggit.vercel.app/p/WorldProtect/2.3.14</loc>
   <lastmod>2023-02-25T03:50:07+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://better-poggit.hop.sh/p/Slapper/2.1.1</loc>
+  <loc>https://better-poggit.vercel.app/p/Slapper/2.1.1</loc>
   <lastmod>2023-02-25T03:50:07+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://better-poggit.hop.sh/p/PHqx-Client/0.0.2</loc>
+  <loc>https://better-poggit.vercel.app/p/PHqx-Client/0.0.2</loc>
   <lastmod>2023-02-25T03:50:07+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://better-poggit.hop.sh/p/theRankShop/1.3.0-dev</loc>
+  <loc>https://better-poggit.vercel.app/p/theRankShop/1.3.0-dev</loc>
   <lastmod>2023-02-25T03:50:07+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://better-poggit.hop.sh/p/Clothes/6.7</loc>
+  <loc>https://better-poggit.vercel.app/p/Clothes/6.7</loc>
   <lastmod>2023-02-25T03:50:07+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://better-poggit.hop.sh/p/BlockLagFix/1.4.0</loc>
+  <loc>https://better-poggit.vercel.app/p/BlockLagFix/1.4.0</loc>
   <lastmod>2023-02-25T03:50:07+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://better-poggit.hop.sh/p/Shield/1.9.0</loc>
+  <loc>https://better-poggit.vercel.app/p/Shield/1.9.0</loc>
   <lastmod>2023-02-25T03:50:07+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://better-poggit.hop.sh/p/LevelLimiter/2.1.2</loc>
+  <loc>https://better-poggit.vercel.app/p/LevelLimiter/2.1.2</loc>
   <lastmod>2023-02-25T03:50:07+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://better-poggit.hop.sh/p/DataCleaning/3.0.5</loc>
+  <loc>https://better-poggit.vercel.app/p/DataCleaning/3.0.5</loc>
   <lastmod>2023-02-25T03:50:07+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://better-poggit.hop.sh/p/PlayedTime/1.0.0</loc>
+  <loc>https://better-poggit.vercel.app/p/PlayedTime/1.0.0</loc>
   <lastmod>2023-02-25T03:50:07+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://better-poggit.hop.sh/p/EasyEdit/2.1.1</loc>
+  <loc>https://better-poggit.vercel.app/p/EasyEdit/2.1.1</loc>
   <lastmod>2023-02-25T03:50:07+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://better-poggit.hop.sh/p/MultiWorld/2.0.0-beta1</loc>
+  <loc>https://better-poggit.vercel.app/p/MultiWorld/2.0.0-beta1</loc>
   <lastmod>2023-02-25T03:50:07+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://better-poggit.hop.sh/p/GuardianJoin/0.0.1</loc>
+  <loc>https://better-poggit.vercel.app/p/GuardianJoin/0.0.1</loc>
   <lastmod>2023-02-25T03:50:07+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://better-poggit.hop.sh/p/CreditsScore/1.1</loc>
+  <loc>https://better-poggit.vercel.app/p/CreditsScore/1.1</loc>
   <lastmod>2023-02-25T03:50:07+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://better-poggit.hop.sh/p/ChatBridge/1.0.0</loc>
+  <loc>https://better-poggit.vercel.app/p/ChatBridge/1.0.0</loc>
   <lastmod>2023-02-25T03:50:07+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://better-poggit.hop.sh/p/DiscordBot/2.1.4</loc>
+  <loc>https://better-poggit.vercel.app/p/DiscordBot/2.1.4</loc>
   <lastmod>2023-02-25T03:50:07+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://better-poggit.hop.sh/p/oh-my-pmmp/1.6.0-beta</loc>
+  <loc>https://better-poggit.vercel.app/p/oh-my-pmmp/1.6.0-beta</loc>
   <lastmod>2023-02-25T03:50:07+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://better-poggit.hop.sh/plugins/page/5</loc>
+  <loc>https://better-poggit.vercel.app/plugins/page/5</loc>
   <lastmod>2023-02-25T03:50:07+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://better-poggit.hop.sh/p/RconServer/1.0.0</loc>
+  <loc>https://better-poggit.vercel.app/p/RconServer/1.0.0</loc>
   <lastmod>2023-02-25T03:50:07+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://better-poggit.hop.sh/p/AntiInstaBreak/1.0.0</loc>
+  <loc>https://better-poggit.vercel.app/p/AntiInstaBreak/1.0.0</loc>
   <lastmod>2023-02-25T03:50:07+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://better-poggit.hop.sh/p/BasicSpawnProtection/1.0.0</loc>
+  <loc>https://better-poggit.vercel.app/p/BasicSpawnProtection/1.0.0</loc>
   <lastmod>2023-02-25T03:50:07+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://better-poggit.hop.sh/p/DoorBell/1.1.0</loc>
+  <loc>https://better-poggit.vercel.app/p/DoorBell/1.1.0</loc>
   <lastmod>2023-02-25T03:50:07+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://better-poggit.hop.sh/p/VanillaCoordinates/1.1.0</loc>
+  <loc>https://better-poggit.vercel.app/p/VanillaCoordinates/1.1.0</loc>
   <lastmod>2023-02-25T03:50:07+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://better-poggit.hop.sh/p/HealthTag/2.1.2</loc>
+  <loc>https://better-poggit.vercel.app/p/HealthTag/2.1.2</loc>
   <lastmod>2023-02-25T03:50:07+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://better-poggit.hop.sh/p/StarterKit/3.0.0</loc>
+  <loc>https://better-poggit.vercel.app/p/StarterKit/3.0.0</loc>
   <lastmod>2023-02-25T03:50:07+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://better-poggit.hop.sh/p/DevTools/1.15.0</loc>
+  <loc>https://better-poggit.vercel.app/p/DevTools/1.15.0</loc>
   <lastmod>2023-02-25T03:50:07+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://better-poggit.hop.sh/plugins/page/43</loc>
+  <loc>https://better-poggit.vercel.app/plugins/page/43</loc>
   <lastmod>2023-02-25T03:50:07+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://better-poggit.hop.sh/plugins/page/41</loc>
+  <loc>https://better-poggit.vercel.app/plugins/page/41</loc>
   <lastmod>2023-02-25T03:50:07+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://better-poggit.hop.sh/plugins/page/42</loc>
+  <loc>https://better-poggit.vercel.app/plugins/page/42</loc>
   <lastmod>2023-02-25T03:50:07+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://better-poggit.hop.sh/p/Worlds/CONTRIBUTING.md</loc>
+  <loc>https://better-poggit.vercel.app/p/Worlds/CONTRIBUTING.md</loc>
   <lastmod>2023-02-25T03:50:07+00:00</lastmod>
   <priority>0.41</priority>
 </url>
 <url>
-  <loc>https://better-poggit.hop.sh/p/HotBlock/CONTRIBUTING.md</loc>
+  <loc>https://better-poggit.vercel.app/p/HotBlock/CONTRIBUTING.md</loc>
   <lastmod>2023-02-25T03:50:07+00:00</lastmod>
   <priority>0.41</priority>
 </url>
 <url>
-  <loc>https://better-poggit.hop.sh/p/VanillaXP/1.0.2</loc>
+  <loc>https://better-poggit.vercel.app/p/VanillaXP/1.0.2</loc>
   <lastmod>2023-02-25T03:50:07+00:00</lastmod>
   <priority>0.41</priority>
 </url>
 <url>
-  <loc>https://better-poggit.hop.sh/p/Weather/1.0.6</loc>
+  <loc>https://better-poggit.vercel.app/p/Weather/1.0.6</loc>
   <lastmod>2023-02-25T03:50:07+00:00</lastmod>
   <priority>0.41</priority>
 </url>
 <url>
-  <loc>https://better-poggit.hop.sh/p/ComplexUpgradeUI/2.1.1</loc>
+  <loc>https://better-poggit.vercel.app/p/ComplexUpgradeUI/2.1.1</loc>
   <lastmod>2023-02-25T03:50:07+00:00</lastmod>
   <priority>0.41</priority>
 </url>
 <url>
-  <loc>https://better-poggit.hop.sh/p/SimpleSpawns/4.0</loc>
+  <loc>https://better-poggit.vercel.app/p/SimpleSpawns/4.0</loc>
   <lastmod>2023-02-25T03:50:07+00:00</lastmod>
   <priority>0.41</priority>
 </url>
 <url>
-  <loc>https://better-poggit.hop.sh/p/EconomyCShop/2.0.0</loc>
+  <loc>https://better-poggit.vercel.app/p/EconomyCShop/2.0.0</loc>
   <lastmod>2023-02-25T03:50:07+00:00</lastmod>
   <priority>0.41</priority>
 </url>
 <url>
-  <loc>https://better-poggit.hop.sh/p/SimpleNPC/4.0.0-beta</loc>
+  <loc>https://better-poggit.vercel.app/p/SimpleNPC/4.0.0-beta</loc>
   <lastmod>2023-02-25T03:50:07+00:00</lastmod>
   <priority>0.41</priority>
 </url>
 <url>
-  <loc>https://better-poggit.hop.sh/p/AutoSellPE/3.1.1</loc>
+  <loc>https://better-poggit.vercel.app/p/AutoSellPE/3.1.1</loc>
   <lastmod>2023-02-25T03:50:07+00:00</lastmod>
   <priority>0.41</priority>
 </url>
 <url>
-  <loc>https://better-poggit.hop.sh/p/MineParty/2.1.0</loc>
+  <loc>https://better-poggit.vercel.app/p/MineParty/2.1.0</loc>
   <lastmod>2023-02-25T03:50:07+00:00</lastmod>
   <priority>0.41</priority>
 </url>
 <url>
-  <loc>https://better-poggit.hop.sh/p/Parties/2.0.2</loc>
+  <loc>https://better-poggit.vercel.app/p/Parties/2.0.2</loc>
   <lastmod>2023-02-25T03:50:07+00:00</lastmod>
   <priority>0.41</priority>
 </url>
 <url>
-  <loc>https://better-poggit.hop.sh/p/CrashBanUsers/1.0.0</loc>
+  <loc>https://better-poggit.vercel.app/p/CrashBanUsers/1.0.0</loc>
   <lastmod>2023-02-25T03:50:07+00:00</lastmod>
   <priority>0.41</priority>
 </url>
 <url>
-  <loc>https://better-poggit.hop.sh/plugins/page/6</loc>
+  <loc>https://better-poggit.vercel.app/plugins/page/6</loc>
   <lastmod>2023-02-25T03:50:07+00:00</lastmod>
   <priority>0.41</priority>
 </url>
 <url>
-  <loc>https://better-poggit.hop.sh/p/EnderCooldown/2.0.0</loc>
+  <loc>https://better-poggit.vercel.app/p/EnderCooldown/2.0.0</loc>
   <lastmod>2023-02-25T03:50:07+00:00</lastmod>
   <priority>0.41</priority>
 </url>
 <url>
-  <loc>https://better-poggit.hop.sh/p/AntiFrameEdit/5.0</loc>
+  <loc>https://better-poggit.vercel.app/p/AntiFrameEdit/5.0</loc>
   <lastmod>2023-02-25T03:50:07+00:00</lastmod>
   <priority>0.41</priority>
 </url>
 <url>
-  <loc>https://better-poggit.hop.sh/p/OneSleeper/1.0.2</loc>
+  <loc>https://better-poggit.vercel.app/p/OneSleeper/1.0.2</loc>
   <lastmod>2023-02-25T03:50:07+00:00</lastmod>
   <priority>0.41</priority>
 </url>
 <url>
-  <loc>https://better-poggit.hop.sh/p/AutoDisableWorlds/1.0.0</loc>
+  <loc>https://better-poggit.vercel.app/p/AutoDisableWorlds/1.0.0</loc>
   <lastmod>2023-02-25T03:50:07+00:00</lastmod>
   <priority>0.41</priority>
 </url>
 <url>
-  <loc>https://better-poggit.hop.sh/p/SimpleHeal/2.0.0</loc>
+  <loc>https://better-poggit.vercel.app/p/SimpleHeal/2.0.0</loc>
   <lastmod>2023-02-25T03:50:07+00:00</lastmod>
   <priority>0.41</priority>
 </url>
 <url>
-  <loc>https://better-poggit.hop.sh/p/InfiniteBuckets/2.0.0</loc>
+  <loc>https://better-poggit.vercel.app/p/InfiniteBuckets/2.0.0</loc>
   <lastmod>2023-02-25T03:50:07+00:00</lastmod>
   <priority>0.41</priority>
 </url>
 <url>
-  <loc>https://better-poggit.hop.sh/p/TransferMe/2.0.0</loc>
+  <loc>https://better-poggit.vercel.app/p/TransferMe/2.0.0</loc>
   <lastmod>2023-02-25T03:50:07+00:00</lastmod>
   <priority>0.41</priority>
 </url>
 <url>
-  <loc>https://better-poggit.hop.sh/p/TellRaw/2.0.0</loc>
+  <loc>https://better-poggit.vercel.app/p/TellRaw/2.0.0</loc>
   <lastmod>2023-02-25T03:50:07+00:00</lastmod>
   <priority>0.41</priority>
 </url>
 <url>
-  <loc>https://better-poggit.hop.sh/p/SimpleFeed/2.0.0</loc>
+  <loc>https://better-poggit.vercel.app/p/SimpleFeed/2.0.0</loc>
   <lastmod>2023-02-25T03:50:07+00:00</lastmod>
   <priority>0.41</priority>
 </url>
 <url>
-  <loc>https://better-poggit.hop.sh/p/BedrockBreaker/3.4.0</loc>
+  <loc>https://better-poggit.vercel.app/p/BedrockBreaker/3.4.0</loc>
   <lastmod>2023-02-25T03:50:07+00:00</lastmod>
   <priority>0.41</priority>
 </url>
 <url>
-  <loc>https://better-poggit.hop.sh/p/WordScrambler/1.0.0</loc>
+  <loc>https://better-poggit.vercel.app/p/WordScrambler/1.0.0</loc>
   <lastmod>2023-02-25T03:50:07+00:00</lastmod>
   <priority>0.41</priority>
 </url>
 <url>
-  <loc>https://better-poggit.hop.sh/p/AdminLogin/1.0.0-2</loc>
+  <loc>https://better-poggit.vercel.app/p/AdminLogin/1.0.0-2</loc>
   <lastmod>2023-02-25T03:50:07+00:00</lastmod>
   <priority>0.41</priority>
 </url>
 <url>
-  <loc>https://better-poggit.hop.sh/p/AntiVoid/1.2.0</loc>
+  <loc>https://better-poggit.vercel.app/p/AntiVoid/1.2.0</loc>
   <lastmod>2023-02-25T03:50:07+00:00</lastmod>
   <priority>0.41</priority>
 </url>
 <url>
-  <loc>https://better-poggit.hop.sh/p/OreGen/2.0.0</loc>
+  <loc>https://better-poggit.vercel.app/p/OreGen/2.0.0</loc>
   <lastmod>2023-02-25T03:50:07+00:00</lastmod>
   <priority>0.41</priority>
 </url>
 <url>
-  <loc>https://better-poggit.hop.sh/p/Vouchers/1.0.2</loc>
+  <loc>https://better-poggit.vercel.app/p/Vouchers/1.0.2</loc>
   <lastmod>2023-02-25T03:50:07+00:00</lastmod>
   <priority>0.41</priority>
 </url>
 <url>
-  <loc>https://better-poggit.hop.sh/p/MentionSound/0.1.0</loc>
+  <loc>https://better-poggit.vercel.app/p/MentionSound/0.1.0</loc>
   <lastmod>2023-02-25T03:50:07+00:00</lastmod>
   <priority>0.41</priority>
 </url>
 <url>
-  <loc>https://better-poggit.hop.sh/p/PlayerTags/2.0.0</loc>
+  <loc>https://better-poggit.vercel.app/p/PlayerTags/2.0.0</loc>
   <lastmod>2023-02-25T03:50:07+00:00</lastmod>
   <priority>0.41</priority>
 </url>
 <url>
-  <loc>https://better-poggit.hop.sh/p/PlotHomes/1.1.1</loc>
+  <loc>https://better-poggit.vercel.app/p/PlotHomes/1.1.1</loc>
   <lastmod>2023-02-25T03:50:07+00:00</lastmod>
   <priority>0.41</priority>
 </url>
 <url>
-  <loc>https://better-poggit.hop.sh/p/SimpleHome/1.1.0</loc>
+  <loc>https://better-poggit.vercel.app/p/SimpleHome/1.1.0</loc>
   <lastmod>2023-02-25T03:50:07+00:00</lastmod>
   <priority>0.41</priority>
 </url>
 <url>
-  <loc>https://better-poggit.hop.sh/p/MagicWE2/10.2.0</loc>
+  <loc>https://better-poggit.vercel.app/p/MagicWE2/10.2.0</loc>
   <lastmod>2023-02-25T03:50:07+00:00</lastmod>
   <priority>0.41</priority>
 </url>
 <url>
-  <loc>https://better-poggit.hop.sh/plugins/page/40</loc>
+  <loc>https://better-poggit.vercel.app/plugins/page/40</loc>
   <lastmod>2023-02-25T03:50:07+00:00</lastmod>
   <priority>0.41</priority>
 </url>
 <url>
-  <loc>https://better-poggit.hop.sh/plugins/page/39</loc>
+  <loc>https://better-poggit.vercel.app/plugins/page/39</loc>
   <lastmod>2023-02-25T03:50:07+00:00</lastmod>
   <priority>0.41</priority>
 </url>
 <url>
-  <loc>https://better-poggit.hop.sh/p/ExtendedBlocksConverter/1.0.0</loc>
+  <loc>https://better-poggit.vercel.app/p/ExtendedBlocksConverter/1.0.0</loc>
   <lastmod>2023-02-25T03:50:07+00:00</lastmod>
   <priority>0.41</priority>
 </url>
 <url>
-  <loc>https://better-poggit.hop.sh/p/LiveXYZ/1.0.0</loc>
+  <loc>https://better-poggit.vercel.app/p/LiveXYZ/1.0.0</loc>
   <lastmod>2023-02-25T03:50:07+00:00</lastmod>
   <priority>0.41</priority>
 </url>
 <url>
-  <loc>https://better-poggit.hop.sh/p/RankEasy/1.0.1</loc>
+  <loc>https://better-poggit.vercel.app/p/RankEasy/1.0.1</loc>
   <lastmod>2023-02-25T03:50:07+00:00</lastmod>
   <priority>0.41</priority>
 </url>
 <url>
-  <loc>https://better-poggit.hop.sh/p/NoSprint/1.1.0</loc>
+  <loc>https://better-poggit.vercel.app/p/NoSprint/1.1.0</loc>
   <lastmod>2023-02-25T03:50:07+00:00</lastmod>
   <priority>0.41</priority>
 </url>
 <url>
-  <loc>https://better-poggit.hop.sh/p/LessIsMore/1.1.1</loc>
+  <loc>https://better-poggit.vercel.app/p/LessIsMore/1.1.1</loc>
   <lastmod>2023-02-25T03:50:07+00:00</lastmod>
   <priority>0.41</priority>
 </url>
 <url>
-  <loc>https://better-poggit.hop.sh/p/NoVoid/1.0.0</loc>
+  <loc>https://better-poggit.vercel.app/p/NoVoid/1.0.0</loc>
   <lastmod>2023-02-25T03:50:07+00:00</lastmod>
   <priority>0.41</priority>
 </url>
 <url>
-  <loc>https://better-poggit.hop.sh/p/BetterFlight/1.0.0</loc>
+  <loc>https://better-poggit.vercel.app/p/BetterFlight/1.0.0</loc>
   <lastmod>2023-02-25T03:50:07+00:00</lastmod>
   <priority>0.41</priority>
 </url>
 <url>
-  <loc>https://better-poggit.hop.sh/p/DEVirion/1.2.8</loc>
+  <loc>https://better-poggit.vercel.app/p/DEVirion/1.2.8</loc>
   <lastmod>2023-02-25T03:50:07+00:00</lastmod>
   <priority>0.41</priority>
 </url>
 <url>
-  <loc>https://better-poggit.hop.sh/p/AntiCombatLog/1.0.0</loc>
+  <loc>https://better-poggit.vercel.app/p/AntiCombatLog/1.0.0</loc>
   <lastmod>2023-02-25T03:50:07+00:00</lastmod>
   <priority>0.41</priority>
 </url>
 <url>
-  <loc>https://better-poggit.hop.sh/p/Credits/1.0.1</loc>
+  <loc>https://better-poggit.vercel.app/p/Credits/1.0.1</loc>
   <lastmod>2023-02-25T03:50:07+00:00</lastmod>
   <priority>0.41</priority>
 </url>
 <url>
-  <loc>https://better-poggit.hop.sh/p/AntiAFK/2.0.0</loc>
+  <loc>https://better-poggit.vercel.app/p/AntiAFK/2.0.0</loc>
   <lastmod>2023-02-25T03:50:07+00:00</lastmod>
   <priority>0.33</priority>
 </url>
 <url>
-  <loc>https://better-poggit.hop.sh/p/GroupSystem/3.0.0</loc>
+  <loc>https://better-poggit.vercel.app/p/GroupSystem/3.0.0</loc>
   <lastmod>2023-02-25T03:50:07+00:00</lastmod>
   <priority>0.33</priority>
 </url>
 <url>
-  <loc>https://better-poggit.hop.sh/p/KnockbackFFA/1.6-beta</loc>
+  <loc>https://better-poggit.vercel.app/p/KnockbackFFA/1.6-beta</loc>
   <lastmod>2023-02-25T03:50:07+00:00</lastmod>
   <priority>0.33</priority>
 </url>
 <url>
-  <loc>https://better-poggit.hop.sh/p/BetterBan/4.1.3</loc>
+  <loc>https://better-poggit.vercel.app/p/BetterBan/4.1.3</loc>
   <lastmod>2023-02-25T03:50:07+00:00</lastmod>
   <priority>0.33</priority>
 </url>
 <url>
-  <loc>https://better-poggit.hop.sh/p/ImageParticle/1.3.1</loc>
+  <loc>https://better-poggit.vercel.app/p/ImageParticle/1.3.1</loc>
   <lastmod>2023-02-25T03:50:07+00:00</lastmod>
   <priority>0.33</priority>
 </url>
 <url>
-  <loc>https://better-poggit.hop.sh/p/WorldChat/4.0.1</loc>
+  <loc>https://better-poggit.vercel.app/p/WorldChat/4.0.1</loc>
   <lastmod>2023-02-25T03:50:07+00:00</lastmod>
   <priority>0.33</priority>
 </url>
 <url>
-  <loc>https://better-poggit.hop.sh/p/JoinCommand/1.0.1</loc>
+  <loc>https://better-poggit.vercel.app/p/JoinCommand/1.0.1</loc>
   <lastmod>2023-02-25T03:50:07+00:00</lastmod>
   <priority>0.33</priority>
 </url>
 <url>
-  <loc>https://better-poggit.hop.sh/p/RandomTP/1.0.1</loc>
+  <loc>https://better-poggit.vercel.app/p/RandomTP/1.0.1</loc>
   <lastmod>2023-02-25T03:50:07+00:00</lastmod>
   <priority>0.33</priority>
 </url>
 <url>
-  <loc>https://better-poggit.hop.sh/p/CustomItemLoader/3.1.0</loc>
+  <loc>https://better-poggit.vercel.app/p/CustomItemLoader/3.1.0</loc>
   <lastmod>2023-02-25T03:50:07+00:00</lastmod>
   <priority>0.33</priority>
 </url>
 <url>
-  <loc>https://better-poggit.hop.sh/p/AutoSprint/1.0.1</loc>
+  <loc>https://better-poggit.vercel.app/p/AutoSprint/1.0.1</loc>
   <lastmod>2023-02-25T03:50:07+00:00</lastmod>
   <priority>0.33</priority>
 </url>
 <url>
-  <loc>https://better-poggit.hop.sh/plugins/page/7</loc>
+  <loc>https://better-poggit.vercel.app/plugins/page/7</loc>
   <lastmod>2023-02-25T03:50:07+00:00</lastmod>
   <priority>0.33</priority>
 </url>
 <url>
-  <loc>https://better-poggit.hop.sh/p/KygekLastPosition/2.0.0</loc>
+  <loc>https://better-poggit.vercel.app/p/KygekLastPosition/2.0.0</loc>
   <lastmod>2023-02-25T03:50:07+00:00</lastmod>
   <priority>0.33</priority>
 </url>
 <url>
-  <loc>https://better-poggit.hop.sh/p/KygekRanksUI/2.0.0</loc>
+  <loc>https://better-poggit.vercel.app/p/KygekRanksUI/2.0.0</loc>
   <lastmod>2023-02-25T03:50:07+00:00</lastmod>
   <priority>0.33</priority>
 </url>
 <url>
-  <loc>https://better-poggit.hop.sh/p/BedcoreProtect/1.0.1</loc>
+  <loc>https://better-poggit.vercel.app/p/BedcoreProtect/1.0.1</loc>
   <lastmod>2023-02-25T03:50:07+00:00</lastmod>
   <priority>0.33</priority>
 </url>
 <url>
-  <loc>https://better-poggit.hop.sh/p/MaintenanceMode/2.0.1</loc>
+  <loc>https://better-poggit.vercel.app/p/MaintenanceMode/2.0.1</loc>
   <lastmod>2023-02-25T03:50:07+00:00</lastmod>
   <priority>0.33</priority>
 </url>
 <url>
-  <loc>https://better-poggit.hop.sh/p/EconomyAPI/5.7.3-PM4</loc>
+  <loc>https://better-poggit.vercel.app/p/EconomyAPI/5.7.3-PM4</loc>
   <lastmod>2023-02-25T03:50:07+00:00</lastmod>
   <priority>0.33</priority>
 </url>
 <url>
-  <loc>https://better-poggit.hop.sh/p/SimpleBroadcast/6.0.0</loc>
+  <loc>https://better-poggit.vercel.app/p/SimpleBroadcast/6.0.0</loc>
   <lastmod>2023-02-25T03:50:07+00:00</lastmod>
   <priority>0.33</priority>
 </url>
 <url>
-  <loc>https://better-poggit.hop.sh/p/CrashTransfer/1.0.2</loc>
+  <loc>https://better-poggit.vercel.app/p/CrashTransfer/1.0.2</loc>
   <lastmod>2023-02-25T03:50:07+00:00</lastmod>
   <priority>0.33</priority>
 </url>
 <url>
-  <loc>https://better-poggit.hop.sh/p/PacketLogger/2.0.0</loc>
+  <loc>https://better-poggit.vercel.app/p/PacketLogger/2.0.0</loc>
   <lastmod>2023-02-25T03:50:07+00:00</lastmod>
   <priority>0.33</priority>
 </url>
 <url>
-  <loc>https://better-poggit.hop.sh/p/Snow/1.1.0</loc>
+  <loc>https://better-poggit.vercel.app/p/Snow/1.1.0</loc>
   <lastmod>2023-02-25T03:50:07+00:00</lastmod>
   <priority>0.33</priority>
 </url>
 <url>
-  <loc>https://better-poggit.hop.sh/p/PingManager/1.0.0</loc>
+  <loc>https://better-poggit.vercel.app/p/PingManager/1.0.0</loc>
   <lastmod>2023-02-25T03:50:07+00:00</lastmod>
   <priority>0.33</priority>
 </url>
 <url>
-  <loc>https://better-poggit.hop.sh/plugins/page/38</loc>
+  <loc>https://better-poggit.vercel.app/plugins/page/38</loc>
   <lastmod>2023-02-25T03:50:07+00:00</lastmod>
   <priority>0.33</priority>
 </url>
 <url>
-  <loc>https://better-poggit.hop.sh/p/SizeUI/1.0</loc>
+  <loc>https://better-poggit.vercel.app/p/SizeUI/1.0</loc>
   <lastmod>2023-02-25T03:50:07+00:00</lastmod>
   <priority>0.33</priority>
 </url>
 <url>
-  <loc>https://better-poggit.hop.sh/p/Composter/1.0</loc>
+  <loc>https://better-poggit.vercel.app/p/Composter/1.0</loc>
   <lastmod>2023-02-25T03:50:07+00:00</lastmod>
   <priority>0.33</priority>
 </url>
 <url>
-  <loc>https://better-poggit.hop.sh/p/KygekWhitelistKick/2.0.0</loc>
+  <loc>https://better-poggit.vercel.app/p/KygekWhitelistKick/2.0.0</loc>
   <lastmod>2023-02-25T03:50:07+00:00</lastmod>
   <priority>0.33</priority>
 </url>
 <url>
-  <loc>https://better-poggit.hop.sh/p/SocialSpy/2.0.0</loc>
+  <loc>https://better-poggit.vercel.app/p/SocialSpy/2.0.0</loc>
   <lastmod>2023-02-25T03:50:07+00:00</lastmod>
   <priority>0.33</priority>
 </url>
 <url>
-  <loc>https://better-poggit.hop.sh/p/KygekRulesUI/2.0.0</loc>
+  <loc>https://better-poggit.vercel.app/p/KygekRulesUI/2.0.0</loc>
   <lastmod>2023-02-25T03:50:07+00:00</lastmod>
   <priority>0.33</priority>
 </url>
 <url>
-  <loc>https://better-poggit.hop.sh/p/KygekJoinUI/2.0.0</loc>
+  <loc>https://better-poggit.vercel.app/p/KygekJoinUI/2.0.0</loc>
   <lastmod>2023-02-25T03:50:07+00:00</lastmod>
   <priority>0.33</priority>
 </url>
 <url>
-  <loc>https://better-poggit.hop.sh/p/LobbyItems/2.0.1</loc>
+  <loc>https://better-poggit.vercel.app/p/LobbyItems/2.0.1</loc>
   <lastmod>2023-02-25T03:50:07+00:00</lastmod>
   <priority>0.33</priority>
 </url>
 <url>
-  <loc>https://better-poggit.hop.sh/p/CommandDisabler/2.0.0</loc>
+  <loc>https://better-poggit.vercel.app/p/CommandDisabler/2.0.0</loc>
   <lastmod>2023-02-25T03:50:07+00:00</lastmod>
   <priority>0.33</priority>
 </url>
 <url>
-  <loc>https://better-poggit.hop.sh/p/WorldTeleportUI/1.0.1</loc>
+  <loc>https://better-poggit.vercel.app/p/WorldTeleportUI/1.0.1</loc>
   <lastmod>2023-02-25T03:50:07+00:00</lastmod>
   <priority>0.33</priority>
 </url>
 <url>
-  <loc>https://better-poggit.hop.sh/p/ReportSystem/2.1.0</loc>
+  <loc>https://better-poggit.vercel.app/p/ReportSystem/2.1.0</loc>
   <lastmod>2023-02-25T03:50:07+00:00</lastmod>
   <priority>0.33</priority>
 </url>
 <url>
-  <loc>https://better-poggit.hop.sh/plugins/page/37</loc>
+  <loc>https://better-poggit.vercel.app/plugins/page/37</loc>
   <lastmod>2023-02-25T03:50:07+00:00</lastmod>
   <priority>0.33</priority>
 </url>
 <url>
-  <loc>https://better-poggit.hop.sh/p/CustomItemLoader/CONFIGURATION.md</loc>
+  <loc>https://better-poggit.vercel.app/p/CustomItemLoader/CONFIGURATION.md</loc>
   <lastmod>2023-02-25T03:50:07+00:00</lastmod>
   <priority>0.26</priority>
 </url>
 <url>
-  <loc>https://better-poggit.hop.sh/p/CustomItemLoader/example</loc>
+  <loc>https://better-poggit.vercel.app/p/CustomItemLoader/example</loc>
   <lastmod>2023-02-25T03:50:07+00:00</lastmod>
   <priority>0.26</priority>
 </url>
 <url>
-  <loc>https://better-poggit.hop.sh/p/BlockEffect/0.0.1</loc>
+  <loc>https://better-poggit.vercel.app/p/BlockEffect/0.0.1</loc>
   <lastmod>2023-02-25T03:50:07+00:00</lastmod>
   <priority>0.26</priority>
 </url>
 <url>
-  <loc>https://better-poggit.hop.sh/p/AntiBotBE/1.0.0</loc>
+  <loc>https://better-poggit.vercel.app/p/AntiBotBE/1.0.0</loc>
   <lastmod>2023-02-25T03:50:07+00:00</lastmod>
   <priority>0.26</priority>
 </url>
 <url>
-  <loc>https://better-poggit.hop.sh/p/RepairUI/1.0.0</loc>
+  <loc>https://better-poggit.vercel.app/p/RepairUI/1.0.0</loc>
   <lastmod>2023-02-25T03:50:07+00:00</lastmod>
   <priority>0.26</priority>
 </url>
 <url>
-  <loc>https://better-poggit.hop.sh/p/ToastBroadcaster/1.0.0</loc>
+  <loc>https://better-poggit.vercel.app/p/ToastBroadcaster/1.0.0</loc>
   <lastmod>2023-02-25T03:50:07+00:00</lastmod>
   <priority>0.26</priority>
 </url>
 <url>
-  <loc>https://better-poggit.hop.sh/p/Chat-Filter/1.0</loc>
+  <loc>https://better-poggit.vercel.app/p/Chat-Filter/1.0</loc>
   <lastmod>2023-02-25T03:50:07+00:00</lastmod>
   <priority>0.26</priority>
 </url>
 <url>
-  <loc>https://better-poggit.hop.sh/p/XPShop/2.0.0</loc>
+  <loc>https://better-poggit.vercel.app/p/XPShop/2.0.0</loc>
   <lastmod>2023-02-25T03:50:07+00:00</lastmod>
   <priority>0.26</priority>
 </url>
 <url>
-  <loc>https://better-poggit.hop.sh/p/OpList/2.0.2</loc>
+  <loc>https://better-poggit.vercel.app/p/OpList/2.0.2</loc>
   <lastmod>2023-02-25T03:50:07+00:00</lastmod>
   <priority>0.26</priority>
 </url>
 <url>
-  <loc>https://better-poggit.hop.sh/p/Spyglass/1.1.0</loc>
+  <loc>https://better-poggit.vercel.app/p/Spyglass/1.1.0</loc>
   <lastmod>2023-02-25T03:50:07+00:00</lastmod>
   <priority>0.26</priority>
 </url>
 <url>
-  <loc>https://better-poggit.hop.sh/p/BuilderTools/1.4.0-beta2</loc>
+  <loc>https://better-poggit.vercel.app/p/BuilderTools/1.4.0-beta2</loc>
   <lastmod>2023-02-25T03:50:07+00:00</lastmod>
   <priority>0.26</priority>
 </url>
 <url>
-  <loc>https://better-poggit.hop.sh/p/AntiServerStop/1.0.1</loc>
+  <loc>https://better-poggit.vercel.app/p/AntiServerStop/1.0.1</loc>
   <lastmod>2023-02-25T03:50:07+00:00</lastmod>
   <priority>0.26</priority>
 </url>
 <url>
-  <loc>https://better-poggit.hop.sh/plugins/page/8</loc>
+  <loc>https://better-poggit.vercel.app/plugins/page/8</loc>
   <lastmod>2023-02-25T03:50:07+00:00</lastmod>
   <priority>0.26</priority>
 </url>
 <url>
-  <loc>https://better-poggit.hop.sh/p/PigNotify/3.3.0</loc>
+  <loc>https://better-poggit.vercel.app/p/PigNotify/3.3.0</loc>
   <lastmod>2023-02-25T03:50:07+00:00</lastmod>
   <priority>0.26</priority>
 </url>
 <url>
-  <loc>https://better-poggit.hop.sh/p/Football/2.0.0</loc>
+  <loc>https://better-poggit.vercel.app/p/Football/2.0.0</loc>
   <lastmod>2023-02-25T03:50:07+00:00</lastmod>
   <priority>0.26</priority>
 </url>
 <url>
-  <loc>https://better-poggit.hop.sh/p/Rewards/5.0</loc>
+  <loc>https://better-poggit.vercel.app/p/Rewards/5.0</loc>
   <lastmod>2023-02-25T03:50:07+00:00</lastmod>
   <priority>0.26</priority>
 </url>
 <url>
-  <loc>https://better-poggit.hop.sh/p/Aquaman/1.0.1</loc>
+  <loc>https://better-poggit.vercel.app/p/Aquaman/1.0.1</loc>
   <lastmod>2023-02-25T03:50:07+00:00</lastmod>
   <priority>0.26</priority>
 </url>
 <url>
-  <loc>https://better-poggit.hop.sh/p/ShowPerms/2.0.0</loc>
+  <loc>https://better-poggit.vercel.app/p/ShowPerms/2.0.0</loc>
   <lastmod>2023-02-25T03:50:07+00:00</lastmod>
   <priority>0.26</priority>
 </url>
 <url>
-  <loc>https://better-poggit.hop.sh/p/AdvancedFurnace/1.0.0</loc>
+  <loc>https://better-poggit.vercel.app/p/AdvancedFurnace/1.0.0</loc>
   <lastmod>2023-02-25T03:50:07+00:00</lastmod>
   <priority>0.26</priority>
 </url>
 <url>
-  <loc>https://better-poggit.hop.sh/p/NoEats/1.0.0</loc>
+  <loc>https://better-poggit.vercel.app/p/NoEats/1.0.0</loc>
   <lastmod>2023-02-25T03:50:07+00:00</lastmod>
   <priority>0.26</priority>
 </url>
 <url>
-  <loc>https://better-poggit.hop.sh/p/Perks/3.0.2</loc>
+  <loc>https://better-poggit.vercel.app/p/Perks/3.0.2</loc>
   <lastmod>2023-02-25T03:50:07+00:00</lastmod>
   <priority>0.26</priority>
 </url>
 <url>
-  <loc>https://better-poggit.hop.sh/p/Trash_Can/1.0.0</loc>
+  <loc>https://better-poggit.vercel.app/p/Trash_Can/1.0.0</loc>
   <lastmod>2023-02-25T03:50:07+00:00</lastmod>
   <priority>0.26</priority>
 </url>
 <url>
-  <loc>https://better-poggit.hop.sh/p/AlwaysSpawn/2.2.5</loc>
+  <loc>https://better-poggit.vercel.app/p/AlwaysSpawn/2.2.5</loc>
   <lastmod>2023-02-25T03:50:07+00:00</lastmod>
   <priority>0.26</priority>
 </url>
 <url>
-  <loc>https://better-poggit.hop.sh/plugins/page/36</loc>
+  <loc>https://better-poggit.vercel.app/plugins/page/36</loc>
   <lastmod>2023-02-25T03:50:07+00:00</lastmod>
   <priority>0.26</priority>
 </url>
 <url>
-  <loc>https://better-poggit.hop.sh/p/AdvanceKillMoney/1.2</loc>
+  <loc>https://better-poggit.vercel.app/p/AdvanceKillMoney/1.2</loc>
   <lastmod>2023-02-25T03:50:07+00:00</lastmod>
   <priority>0.26</priority>
 </url>
 <url>
-  <loc>https://better-poggit.hop.sh/p/LobbyPlayerLimit/1.2.0</loc>
+  <loc>https://better-poggit.vercel.app/p/LobbyPlayerLimit/1.2.0</loc>
   <lastmod>2023-02-25T03:50:07+00:00</lastmod>
   <priority>0.26</priority>
 </url>
 <url>
-  <loc>https://better-poggit.hop.sh/p/BetterWarps/1.0.0</loc>
+  <loc>https://better-poggit.vercel.app/p/BetterWarps/1.0.0</loc>
   <lastmod>2023-02-25T03:50:07+00:00</lastmod>
   <priority>0.26</priority>
 </url>
 <url>
-  <loc>https://better-poggit.hop.sh/p/JailMate/1.1.7</loc>
+  <loc>https://better-poggit.vercel.app/p/JailMate/1.1.7</loc>
   <lastmod>2023-02-25T03:50:07+00:00</lastmod>
   <priority>0.26</priority>
 </url>
 <url>
-  <loc>https://better-poggit.hop.sh/p/SimpleMotd/1.0.0</loc>
+  <loc>https://better-poggit.vercel.app/p/SimpleMotd/1.0.0</loc>
   <lastmod>2023-02-25T03:50:07+00:00</lastmod>
   <priority>0.26</priority>
 </url>
 <url>
-  <loc>https://better-poggit.hop.sh/p/NativeDimensions/1.0.0-beta5</loc>
+  <loc>https://better-poggit.vercel.app/p/NativeDimensions/1.0.0-beta5</loc>
   <lastmod>2023-02-25T03:50:07+00:00</lastmod>
   <priority>0.26</priority>
 </url>
 <url>
-  <loc>https://better-poggit.hop.sh/p/Hotbar/2.0.6</loc>
+  <loc>https://better-poggit.vercel.app/p/Hotbar/2.0.6</loc>
   <lastmod>2023-02-25T03:50:07+00:00</lastmod>
   <priority>0.26</priority>
 </url>
 <url>
-  <loc>https://better-poggit.hop.sh/p/SimpleCustomCraft/2.0.0</loc>
+  <loc>https://better-poggit.vercel.app/p/SimpleCustomCraft/2.0.0</loc>
   <lastmod>2023-02-25T03:50:07+00:00</lastmod>
   <priority>0.26</priority>
 </url>
 <url>
-  <loc>https://better-poggit.hop.sh/p/CommandsExploder/1.0.2</loc>
+  <loc>https://better-poggit.vercel.app/p/CommandsExploder/1.0.2</loc>
   <lastmod>2023-02-25T03:50:07+00:00</lastmod>
   <priority>0.26</priority>
 </url>
 <url>
-  <loc>https://better-poggit.hop.sh/p/DynamitePala/2.0.0</loc>
+  <loc>https://better-poggit.vercel.app/p/DynamitePala/2.0.0</loc>
   <lastmod>2023-02-25T03:50:07+00:00</lastmod>
   <priority>0.26</priority>
 </url>
 <url>
-  <loc>https://better-poggit.hop.sh/plugins/page/35</loc>
+  <loc>https://better-poggit.vercel.app/plugins/page/35</loc>
   <lastmod>2023-02-25T03:50:07+00:00</lastmod>
   <priority>0.26</priority>
 </url>
 <url>
-  <loc>https://better-poggit.hop.sh/p/AntiFallDamage/2.0.1</loc>
+  <loc>https://better-poggit.vercel.app/p/AntiFallDamage/2.0.1</loc>
   <lastmod>2023-02-25T03:50:07+00:00</lastmod>
   <priority>0.21</priority>
 </url>
 <url>
-  <loc>https://better-poggit.hop.sh/p/AntiExplosions/1.0.1</loc>
+  <loc>https://better-poggit.vercel.app/p/AntiExplosions/1.0.1</loc>
   <lastmod>2023-02-25T03:50:07+00:00</lastmod>
   <priority>0.21</priority>
 </url>
 <url>
-  <loc>https://better-poggit.hop.sh/p/KeepInventory/2.1.3</loc>
+  <loc>https://better-poggit.vercel.app/p/KeepInventory/2.1.3</loc>
   <lastmod>2023-02-25T03:50:07+00:00</lastmod>
   <priority>0.21</priority>
 </url>
 <url>
-  <loc>https://better-poggit.hop.sh/p/DevilMode/0.0.2</loc>
+  <loc>https://better-poggit.vercel.app/p/DevilMode/0.0.2</loc>
   <lastmod>2023-02-25T03:50:07+00:00</lastmod>
   <priority>0.21</priority>
 </url>
 <url>
-  <loc>https://better-poggit.hop.sh/p/HealthLimit/1.0.1</loc>
+  <loc>https://better-poggit.vercel.app/p/HealthLimit/1.0.1</loc>
   <lastmod>2023-02-25T03:50:07+00:00</lastmod>
   <priority>0.21</priority>
 </url>
 <url>
-  <loc>https://better-poggit.hop.sh/p/EmojiAttack/0.0.3</loc>
+  <loc>https://better-poggit.vercel.app/p/EmojiAttack/0.0.3</loc>
   <lastmod>2023-02-25T03:50:07+00:00</lastmod>
   <priority>0.21</priority>
 </url>
 <url>
-  <loc>https://better-poggit.hop.sh/p/AdvancedRules/1.0.1</loc>
+  <loc>https://better-poggit.vercel.app/p/AdvancedRules/1.0.1</loc>
   <lastmod>2023-02-25T03:50:07+00:00</lastmod>
   <priority>0.21</priority>
 </url>
 <url>
-  <loc>https://better-poggit.hop.sh/p/CustomJoinSound/1.0.3</loc>
+  <loc>https://better-poggit.vercel.app/p/CustomJoinSound/1.0.3</loc>
   <lastmod>2023-02-25T03:50:07+00:00</lastmod>
   <priority>0.21</priority>
 </url>
 <url>
-  <loc>https://better-poggit.hop.sh/p/WorldGuard/1.34-beta3</loc>
+  <loc>https://better-poggit.vercel.app/p/WorldGuard/1.34-beta3</loc>
   <lastmod>2023-02-25T03:50:07+00:00</lastmod>
   <priority>0.21</priority>
 </url>
 <url>
-  <loc>https://better-poggit.hop.sh/p/TGCapes/2.0.0</loc>
+  <loc>https://better-poggit.vercel.app/p/TGCapes/2.0.0</loc>
   <lastmod>2023-02-25T03:50:07+00:00</lastmod>
   <priority>0.21</priority>
 </url>
 <url>
-  <loc>https://better-poggit.hop.sh/plugins/page/9</loc>
+  <loc>https://better-poggit.vercel.app/plugins/page/9</loc>
   <lastmod>2023-02-25T03:50:07+00:00</lastmod>
   <priority>0.21</priority>
 </url>
 <url>
-  <loc>https://better-poggit.hop.sh/p/RGB/1.0</loc>
+  <loc>https://better-poggit.vercel.app/p/RGB/1.0</loc>
   <lastmod>2023-02-25T03:50:07+00:00</lastmod>
   <priority>0.21</priority>
 </url>
 <url>
-  <loc>https://better-poggit.hop.sh/p/AntiHunger/1.0.0</loc>
+  <loc>https://better-poggit.vercel.app/p/AntiHunger/1.0.0</loc>
   <lastmod>2023-02-25T03:50:07+00:00</lastmod>
   <priority>0.21</priority>
 </url>
 <url>
-  <loc>https://better-poggit.hop.sh/p/CaptchaVerification/1.0.0</loc>
+  <loc>https://better-poggit.vercel.app/p/CaptchaVerification/1.0.0</loc>
   <lastmod>2023-02-25T03:50:07+00:00</lastmod>
   <priority>0.21</priority>
 </url>
 <url>
-  <loc>https://better-poggit.hop.sh/p/SimpleStaffChat/1.0.0</loc>
+  <loc>https://better-poggit.vercel.app/p/SimpleStaffChat/1.0.0</loc>
   <lastmod>2023-02-25T03:50:07+00:00</lastmod>
   <priority>0.21</priority>
 </url>
 <url>
-  <loc>https://better-poggit.hop.sh/p/WorldTime/1.0.0</loc>
+  <loc>https://better-poggit.vercel.app/p/WorldTime/1.0.0</loc>
   <lastmod>2023-02-25T03:50:07+00:00</lastmod>
   <priority>0.21</priority>
 </url>
 <url>
-  <loc>https://better-poggit.hop.sh/p/BankUI/3.0.0</loc>
+  <loc>https://better-poggit.vercel.app/p/BankUI/3.0.0</loc>
   <lastmod>2023-02-25T03:50:07+00:00</lastmod>
   <priority>0.21</priority>
 </url>
 <url>
-  <loc>https://better-poggit.hop.sh/p/PingKick/1.3</loc>
+  <loc>https://better-poggit.vercel.app/p/PingKick/1.3</loc>
   <lastmod>2023-02-25T03:50:07+00:00</lastmod>
   <priority>0.21</priority>
 </url>
 <url>
-  <loc>https://better-poggit.hop.sh/p/AdvancedInstantRespawn/1.0.0</loc>
+  <loc>https://better-poggit.vercel.app/p/AdvancedInstantRespawn/1.0.0</loc>
   <lastmod>2023-02-25T03:50:07+00:00</lastmod>
   <priority>0.21</priority>
 </url>
 <url>
-  <loc>https://better-poggit.hop.sh/p/ChatRewardEvent/1.1.4</loc>
+  <loc>https://better-poggit.vercel.app/p/ChatRewardEvent/1.1.4</loc>
   <lastmod>2023-02-25T03:50:07+00:00</lastmod>
   <priority>0.21</priority>
 </url>
 <url>
-  <loc>https://better-poggit.hop.sh/p/ChatCooldown/1.0.2</loc>
+  <loc>https://better-poggit.vercel.app/p/ChatCooldown/1.0.2</loc>
   <lastmod>2023-02-25T03:50:07+00:00</lastmod>
   <priority>0.21</priority>
 </url>
 <url>
-  <loc>https://better-poggit.hop.sh/plugins/page/34</loc>
+  <loc>https://better-poggit.vercel.app/plugins/page/34</loc>
   <lastmod>2023-02-25T03:50:07+00:00</lastmod>
   <priority>0.21</priority>
 </url>
 <url>
-  <loc>https://better-poggit.hop.sh/p/PlotChat/3.0.0</loc>
+  <loc>https://better-poggit.vercel.app/p/PlotChat/3.0.0</loc>
   <lastmod>2023-02-25T03:50:07+00:00</lastmod>
   <priority>0.21</priority>
 </url>
 <url>
-  <loc>https://better-poggit.hop.sh/p/PremiumCase/1.4.2</loc>
+  <loc>https://better-poggit.vercel.app/p/PremiumCase/1.4.2</loc>
   <lastmod>2023-02-25T03:50:07+00:00</lastmod>
   <priority>0.21</priority>
 </url>
 <url>
-  <loc>https://better-poggit.hop.sh/p/XPBottle/1.1.0</loc>
+  <loc>https://better-poggit.vercel.app/p/XPBottle/1.1.0</loc>
   <lastmod>2023-02-25T03:50:07+00:00</lastmod>
   <priority>0.21</priority>
 </url>
 <url>
-  <loc>https://better-poggit.hop.sh/p/BlockCommands/1.0.1</loc>
+  <loc>https://better-poggit.vercel.app/p/BlockCommands/1.0.1</loc>
   <lastmod>2023-02-25T03:50:07+00:00</lastmod>
   <priority>0.21</priority>
 </url>
 <url>
-  <loc>https://better-poggit.hop.sh/p/BestTools/1.1.0</loc>
+  <loc>https://better-poggit.vercel.app/p/BestTools/1.1.0</loc>
   <lastmod>2023-02-25T03:50:07+00:00</lastmod>
   <priority>0.21</priority>
 </url>
 <url>
-  <loc>https://better-poggit.hop.sh/p/ViewDistance/1.1.0</loc>
+  <loc>https://better-poggit.vercel.app/p/ViewDistance/1.1.0</loc>
   <lastmod>2023-02-25T03:50:07+00:00</lastmod>
   <priority>0.21</priority>
 </url>
 <url>
-  <loc>https://better-poggit.hop.sh/p/Bless/1.1.0</loc>
+  <loc>https://better-poggit.vercel.app/p/Bless/1.1.0</loc>
   <lastmod>2023-02-25T03:50:07+00:00</lastmod>
   <priority>0.21</priority>
 </url>
 <url>
-  <loc>https://better-poggit.hop.sh/p/PlayTime/1.1.0</loc>
+  <loc>https://better-poggit.vercel.app/p/PlayTime/1.1.0</loc>
   <lastmod>2023-02-25T03:50:07+00:00</lastmod>
   <priority>0.21</priority>
 </url>
 <url>
-  <loc>https://better-poggit.hop.sh/p/Prisons/3.0.0</loc>
+  <loc>https://better-poggit.vercel.app/p/Prisons/3.0.0</loc>
   <lastmod>2023-02-25T03:50:07+00:00</lastmod>
   <priority>0.21</priority>
 </url>
 <url>
-  <loc>https://better-poggit.hop.sh/p/SkinThief/1.0.0</loc>
+  <loc>https://better-poggit.vercel.app/p/SkinThief/1.0.0</loc>
   <lastmod>2023-02-25T03:50:07+00:00</lastmod>
   <priority>0.21</priority>
 </url>
 <url>
-  <loc>https://better-poggit.hop.sh/plugins/page/33</loc>
+  <loc>https://better-poggit.vercel.app/plugins/page/33</loc>
   <lastmod>2023-02-25T03:50:07+00:00</lastmod>
   <priority>0.21</priority>
 </url>
 <url>
-  <loc>https://better-poggit.hop.sh/p/AntiDecay/1.0.0</loc>
+  <loc>https://better-poggit.vercel.app/p/AntiDecay/1.0.0</loc>
   <lastmod>2023-02-25T03:50:07+00:00</lastmod>
   <priority>0.17</priority>
 </url>
 <url>
-  <loc>https://better-poggit.hop.sh/p/XPAuto/3.0.0</loc>
+  <loc>https://better-poggit.vercel.app/p/XPAuto/3.0.0</loc>
   <lastmod>2023-02-25T03:50:07+00:00</lastmod>
   <priority>0.17</priority>
 </url>
 <url>
-  <loc>https://better-poggit.hop.sh/p/CropGrowth/2.0.3</loc>
+  <loc>https://better-poggit.vercel.app/p/CropGrowth/2.0.3</loc>
   <lastmod>2023-02-25T03:50:07+00:00</lastmod>
   <priority>0.17</priority>
 </url>
 <url>
-  <loc>https://better-poggit.hop.sh/p/BetterCapes/0.0.2</loc>
+  <loc>https://better-poggit.vercel.app/p/BetterCapes/0.0.2</loc>
   <lastmod>2023-02-25T03:50:07+00:00</lastmod>
   <priority>0.17</priority>
 </url>
 <url>
-  <loc>https://better-poggit.hop.sh/p/mFreeze/1.2.2</loc>
+  <loc>https://better-poggit.vercel.app/p/mFreeze/1.2.2</loc>
   <lastmod>2023-02-25T03:50:07+00:00</lastmod>
   <priority>0.17</priority>
 </url>
 <url>
-  <loc>https://better-poggit.hop.sh/p/Track/1.0.1</loc>
+  <loc>https://better-poggit.vercel.app/p/Track/1.0.1</loc>
   <lastmod>2023-02-25T03:50:07+00:00</lastmod>
   <priority>0.17</priority>
 </url>
 <url>
-  <loc>https://better-poggit.hop.sh/p/Customies/1.0.5</loc>
+  <loc>https://better-poggit.vercel.app/p/Customies/1.0.5</loc>
   <lastmod>2023-02-25T03:50:07+00:00</lastmod>
   <priority>0.17</priority>
 </url>
 <url>
-  <loc>https://better-poggit.hop.sh/p/RegionProtect/1.1.1</loc>
+  <loc>https://better-poggit.vercel.app/p/RegionProtect/1.1.1</loc>
   <lastmod>2023-02-25T03:50:07+00:00</lastmod>
   <priority>0.17</priority>
 </url>
 <url>
-  <loc>https://better-poggit.hop.sh/p/MyItem/0.0.1</loc>
+  <loc>https://better-poggit.vercel.app/p/MyItem/0.0.1</loc>
   <lastmod>2023-02-25T03:50:07+00:00</lastmod>
   <priority>0.17</priority>
 </url>
 <url>
-  <loc>https://better-poggit.hop.sh/p/BlockPerms/2.1.0</loc>
+  <loc>https://better-poggit.vercel.app/p/BlockPerms/2.1.0</loc>
   <lastmod>2023-02-25T03:50:07+00:00</lastmod>
   <priority>0.17</priority>
 </url>
 <url>
-  <loc>https://better-poggit.hop.sh/plugins/page/10</loc>
+  <loc>https://better-poggit.vercel.app/plugins/page/10</loc>
   <lastmod>2023-02-25T03:50:07+00:00</lastmod>
   <priority>0.17</priority>
 </url>
 <url>
-  <loc>https://better-poggit.hop.sh/p/DeathMoney/2.0.1</loc>
+  <loc>https://better-poggit.vercel.app/p/DeathMoney/2.0.1</loc>
   <lastmod>2023-02-25T03:50:07+00:00</lastmod>
   <priority>0.17</priority>
 </url>
 <url>
-  <loc>https://better-poggit.hop.sh/p/_NewAlias/1.4.1</loc>
+  <loc>https://better-poggit.vercel.app/p/_NewAlias/1.4.1</loc>
   <lastmod>2023-02-25T03:50:07+00:00</lastmod>
   <priority>0.17</priority>
 </url>
 <url>
-  <loc>https://better-poggit.hop.sh/p/PlayerSelectors/2.0.0</loc>
+  <loc>https://better-poggit.vercel.app/p/PlayerSelectors/2.0.0</loc>
   <lastmod>2023-02-25T03:50:07+00:00</lastmod>
   <priority>0.17</priority>
 </url>
 <url>
-  <loc>https://better-poggit.hop.sh/p/PlotRate/1.1.2-1</loc>
+  <loc>https://better-poggit.vercel.app/p/PlotRate/1.1.2-1</loc>
   <lastmod>2023-02-25T03:50:07+00:00</lastmod>
   <priority>0.17</priority>
 </url>
 <url>
-  <loc>https://better-poggit.hop.sh/p/LightningDeath/1.3.3</loc>
+  <loc>https://better-poggit.vercel.app/p/LightningDeath/1.3.3</loc>
   <lastmod>2023-02-25T03:50:07+00:00</lastmod>
   <priority>0.17</priority>
 </url>
 <url>
-  <loc>https://better-poggit.hop.sh/p/MaxEnchants/1.2.4</loc>
+  <loc>https://better-poggit.vercel.app/p/MaxEnchants/1.2.4</loc>
   <lastmod>2023-02-25T03:50:07+00:00</lastmod>
   <priority>0.17</priority>
 </url>
 <url>
-  <loc>https://better-poggit.hop.sh/p/EmoteCommands/1.0.0</loc>
+  <loc>https://better-poggit.vercel.app/p/EmoteCommands/1.0.0</loc>
   <lastmod>2023-02-25T03:50:07+00:00</lastmod>
   <priority>0.17</priority>
 </url>
 <url>
-  <loc>https://better-poggit.hop.sh/p/RoyalPingTag/1.0.0</loc>
+  <loc>https://better-poggit.vercel.app/p/RoyalPingTag/1.0.0</loc>
   <lastmod>2023-02-25T03:50:07+00:00</lastmod>
   <priority>0.17</priority>
 </url>
 <url>
-  <loc>https://better-poggit.hop.sh/p/PalermoTown/0.0.1</loc>
+  <loc>https://better-poggit.vercel.app/p/PalermoTown/0.0.1</loc>
   <lastmod>2023-02-25T03:50:07+00:00</lastmod>
   <priority>0.17</priority>
 </url>
 <url>
-  <loc>https://better-poggit.hop.sh/p/InventoryShards/1.0.1-API4</loc>
+  <loc>https://better-poggit.vercel.app/p/InventoryShards/1.0.1-API4</loc>
   <lastmod>2023-02-25T03:50:07+00:00</lastmod>
   <priority>0.17</priority>
 </url>
 <url>
-  <loc>https://better-poggit.hop.sh/plugins/page/32</loc>
+  <loc>https://better-poggit.vercel.app/plugins/page/32</loc>
   <lastmod>2023-02-25T03:50:07+00:00</lastmod>
   <priority>0.17</priority>
 </url>
 <url>
-  <loc>https://better-poggit.hop.sh/p/Crossbow/2.0.0</loc>
+  <loc>https://better-poggit.vercel.app/p/Crossbow/2.0.0</loc>
   <lastmod>2023-02-25T03:50:07+00:00</lastmod>
   <priority>0.17</priority>
 </url>
 <url>
-  <loc>https://better-poggit.hop.sh/p/PECollide/2.0</loc>
+  <loc>https://better-poggit.vercel.app/p/PECollide/2.0</loc>
   <lastmod>2023-02-25T03:50:07+00:00</lastmod>
   <priority>0.17</priority>
 </url>
 <url>
-  <loc>https://better-poggit.hop.sh/p/VanillaElytra/1.4.0</loc>
+  <loc>https://better-poggit.vercel.app/p/VanillaElytra/1.4.0</loc>
   <lastmod>2023-02-25T03:50:07+00:00</lastmod>
   <priority>0.17</priority>
 </url>
 <url>
-  <loc>https://better-poggit.hop.sh/p/RenameItems/3.0</loc>
+  <loc>https://better-poggit.vercel.app/p/RenameItems/3.0</loc>
   <lastmod>2023-02-25T03:50:07+00:00</lastmod>
   <priority>0.17</priority>
 </url>
 <url>
-  <loc>https://better-poggit.hop.sh/p/SkinBan/1.0.0</loc>
+  <loc>https://better-poggit.vercel.app/p/SkinBan/1.0.0</loc>
   <lastmod>2023-02-25T03:50:07+00:00</lastmod>
   <priority>0.17</priority>
 </url>
 <url>
-  <loc>https://better-poggit.hop.sh/p/RemoteConsole/2.0.1</loc>
+  <loc>https://better-poggit.vercel.app/p/RemoteConsole/2.0.1</loc>
   <lastmod>2023-02-25T03:50:07+00:00</lastmod>
   <priority>0.17</priority>
 </url>
 <url>
-  <loc>https://better-poggit.hop.sh/p/BlazinFly/1.9.0</loc>
+  <loc>https://better-poggit.vercel.app/p/BlazinFly/1.9.0</loc>
   <lastmod>2023-02-25T03:50:07+00:00</lastmod>
   <priority>0.17</priority>
 </url>
 <url>
-  <loc>https://better-poggit.hop.sh/p/INether/1.0.1</loc>
+  <loc>https://better-poggit.vercel.app/p/INether/1.0.1</loc>
   <lastmod>2023-02-25T03:50:07+00:00</lastmod>
   <priority>0.17</priority>
 </url>
 <url>
-  <loc>https://better-poggit.hop.sh/p/ItemFactory/2.0.0</loc>
+  <loc>https://better-poggit.vercel.app/p/ItemFactory/2.0.0</loc>
   <lastmod>2023-02-25T03:50:07+00:00</lastmod>
   <priority>0.17</priority>
 </url>
 <url>
-  <loc>https://better-poggit.hop.sh/p/CustomCraftDraz/1.0.4</loc>
+  <loc>https://better-poggit.vercel.app/p/CustomCraftDraz/1.0.4</loc>
   <lastmod>2023-02-25T03:50:07+00:00</lastmod>
   <priority>0.17</priority>
 </url>
 <url>
-  <loc>https://better-poggit.hop.sh/plugins/page/31</loc>
+  <loc>https://better-poggit.vercel.app/plugins/page/31</loc>
   <lastmod>2023-02-25T03:50:07+00:00</lastmod>
   <priority>0.17</priority>
 </url>
 <url>
-  <loc>https://better-poggit.hop.sh/p/FoodBlocker/2.1.0</loc>
+  <loc>https://better-poggit.vercel.app/p/FoodBlocker/2.1.0</loc>
   <lastmod>2023-02-25T03:50:07+00:00</lastmod>
   <priority>0.13</priority>
 </url>
 <url>
-  <loc>https://better-poggit.hop.sh/p/NoDropsPE/4.20.69</loc>
+  <loc>https://better-poggit.vercel.app/p/NoDropsPE/4.20.69</loc>
   <lastmod>2023-02-25T03:50:07+00:00</lastmod>
   <priority>0.13</priority>
 </url>
 <url>
-  <loc>https://better-poggit.hop.sh/p/MoveCommand/1.0.0</loc>
+  <loc>https://better-poggit.vercel.app/p/MoveCommand/1.0.0</loc>
   <lastmod>2023-02-25T03:50:07+00:00</lastmod>
   <priority>0.13</priority>
 </url>
 <url>
-  <loc>https://better-poggit.hop.sh/p/DeathChestPro/0.0.1</loc>
+  <loc>https://better-poggit.vercel.app/p/DeathChestPro/0.0.1</loc>
   <lastmod>2023-02-25T03:50:07+00:00</lastmod>
   <priority>0.13</priority>
 </url>
 <url>
-  <loc>https://better-poggit.hop.sh/p/Minerware/1.0.0-beta2</loc>
+  <loc>https://better-poggit.vercel.app/p/Minerware/1.0.0-beta2</loc>
   <lastmod>2023-02-25T03:50:07+00:00</lastmod>
   <priority>0.13</priority>
 </url>
 <url>
-  <loc>https://better-poggit.hop.sh/p/DeathInventoryLog/0.0.2</loc>
+  <loc>https://better-poggit.vercel.app/p/DeathInventoryLog/0.0.2</loc>
   <lastmod>2023-02-25T03:50:07+00:00</lastmod>
   <priority>0.13</priority>
 </url>
 <url>
-  <loc>https://better-poggit.hop.sh/p/GamemodeUI/1.2</loc>
+  <loc>https://better-poggit.vercel.app/p/GamemodeUI/1.2</loc>
   <lastmod>2023-02-25T03:50:07+00:00</lastmod>
   <priority>0.13</priority>
 </url>
 <url>
-  <loc>https://better-poggit.hop.sh/p/PortableCrafting/0.1.1</loc>
+  <loc>https://better-poggit.vercel.app/p/PortableCrafting/0.1.1</loc>
   <lastmod>2023-02-25T03:50:07+00:00</lastmod>
   <priority>0.13</priority>
 </url>
 <url>
-  <loc>https://better-poggit.hop.sh/p/PlayerVaults/3.4.2</loc>
+  <loc>https://better-poggit.vercel.app/p/PlayerVaults/3.4.2</loc>
   <lastmod>2023-02-25T03:50:07+00:00</lastmod>
   <priority>0.13</priority>
 </url>
 <url>
-  <loc>https://better-poggit.hop.sh/p/ChestShop/5.3.5</loc>
+  <loc>https://better-poggit.vercel.app/p/ChestShop/5.3.5</loc>
   <lastmod>2023-02-25T03:50:07+00:00</lastmod>
   <priority>0.13</priority>
 </url>
 <url>
-  <loc>https://better-poggit.hop.sh/plugins/page/11</loc>
+  <loc>https://better-poggit.vercel.app/plugins/page/11</loc>
   <lastmod>2023-02-25T03:50:07+00:00</lastmod>
   <priority>0.13</priority>
 </url>
 <url>
-  <loc>https://better-poggit.hop.sh/p/YourInformation/1.0.0</loc>
+  <loc>https://better-poggit.vercel.app/p/YourInformation/1.0.0</loc>
   <lastmod>2023-02-25T03:50:07+00:00</lastmod>
   <priority>0.13</priority>
 </url>
 <url>
-  <loc>https://better-poggit.hop.sh/p/Disguise/1.0.0</loc>
+  <loc>https://better-poggit.vercel.app/p/Disguise/1.0.0</loc>
   <lastmod>2023-02-25T03:50:07+00:00</lastmod>
   <priority>0.13</priority>
 </url>
 <url>
-  <loc>https://better-poggit.hop.sh/p/BetterRename/1.0.0</loc>
+  <loc>https://better-poggit.vercel.app/p/BetterRename/1.0.0</loc>
   <lastmod>2023-02-25T03:50:07+00:00</lastmod>
   <priority>0.13</priority>
 </url>
 <url>
-  <loc>https://better-poggit.hop.sh/p/MCPEToDiscord/2.0.0</loc>
+  <loc>https://better-poggit.vercel.app/p/MCPEToDiscord/2.0.0</loc>
   <lastmod>2023-02-25T03:50:07+00:00</lastmod>
   <priority>0.13</priority>
 </url>
 <url>
-  <loc>https://better-poggit.hop.sh/p/HelpBook/1.0.0</loc>
+  <loc>https://better-poggit.vercel.app/p/HelpBook/1.0.0</loc>
   <lastmod>2023-02-25T03:50:07+00:00</lastmod>
   <priority>0.13</priority>
 </url>
 <url>
-  <loc>https://better-poggit.hop.sh/p/AdminProtect/2.0.0</loc>
+  <loc>https://better-poggit.vercel.app/p/AdminProtect/2.0.0</loc>
   <lastmod>2023-02-25T03:50:07+00:00</lastmod>
   <priority>0.13</priority>
 </url>
 <url>
-  <loc>https://better-poggit.hop.sh/p/EffectSee/1.0.1</loc>
+  <loc>https://better-poggit.vercel.app/p/EffectSee/1.0.1</loc>
   <lastmod>2023-02-25T03:50:07+00:00</lastmod>
   <priority>0.13</priority>
 </url>
 <url>
-  <loc>https://better-poggit.hop.sh/p/SlapperCooldown/1.0.1</loc>
+  <loc>https://better-poggit.vercel.app/p/SlapperCooldown/1.0.1</loc>
   <lastmod>2023-02-25T03:50:07+00:00</lastmod>
   <priority>0.13</priority>
 </url>
 <url>
-  <loc>https://better-poggit.hop.sh/p/WFT/1.3.2</loc>
+  <loc>https://better-poggit.vercel.app/p/WFT/1.3.2</loc>
   <lastmod>2023-02-25T03:50:07+00:00</lastmod>
   <priority>0.13</priority>
 </url>
 <url>
-  <loc>https://better-poggit.hop.sh/p/HealAndFeed/2.1.0</loc>
+  <loc>https://better-poggit.vercel.app/p/HealAndFeed/2.1.0</loc>
   <lastmod>2023-02-25T03:50:07+00:00</lastmod>
   <priority>0.13</priority>
 </url>
 <url>
-  <loc>https://better-poggit.hop.sh/plugins/page/30</loc>
+  <loc>https://better-poggit.vercel.app/plugins/page/30</loc>
   <lastmod>2023-02-25T03:50:07+00:00</lastmod>
   <priority>0.13</priority>
 </url>
 <url>
-  <loc>https://better-poggit.hop.sh/p/BlazinFly/LICENSE</loc>
+  <loc>https://better-poggit.vercel.app/p/BlazinFly/LICENSE</loc>
   <lastmod>2023-02-25T03:50:07+00:00</lastmod>
   <priority>0.13</priority>
 </url>
 <url>
-  <loc>https://better-poggit.hop.sh/p/PlayerStatus/1.0.0</loc>
+  <loc>https://better-poggit.vercel.app/p/PlayerStatus/1.0.0</loc>
   <lastmod>2023-02-25T03:50:07+00:00</lastmod>
   <priority>0.13</priority>
 </url>
 <url>
-  <loc>https://better-poggit.hop.sh/p/CustomMessages/1.0.1</loc>
+  <loc>https://better-poggit.vercel.app/p/CustomMessages/1.0.1</loc>
   <lastmod>2023-02-25T03:50:07+00:00</lastmod>
   <priority>0.13</priority>
 </url>
 <url>
-  <loc>https://better-poggit.hop.sh/p/InfoTag/4.0-STABLE</loc>
+  <loc>https://better-poggit.vercel.app/p/InfoTag/4.0-STABLE</loc>
   <lastmod>2023-02-25T03:50:07+00:00</lastmod>
   <priority>0.13</priority>
 </url>
 <url>
-  <loc>https://better-poggit.hop.sh/p/MentionedMessage/1.0.2</loc>
+  <loc>https://better-poggit.vercel.app/p/MentionedMessage/1.0.2</loc>
   <lastmod>2023-02-25T03:50:07+00:00</lastmod>
   <priority>0.13</priority>
 </url>
 <url>
-  <loc>https://better-poggit.hop.sh/p/InfoAPI/1.2.0</loc>
+  <loc>https://better-poggit.vercel.app/p/InfoAPI/1.2.0</loc>
   <lastmod>2023-02-25T03:50:07+00:00</lastmod>
   <priority>0.13</priority>
 </url>
 <url>
-  <loc>https://better-poggit.hop.sh/p/CustomBow/0.0.1</loc>
+  <loc>https://better-poggit.vercel.app/p/CustomBow/0.0.1</loc>
   <lastmod>2023-02-25T03:50:07+00:00</lastmod>
   <priority>0.13</priority>
 </url>
 <url>
-  <loc>https://better-poggit.hop.sh/p/ChatRange/0.0.1</loc>
+  <loc>https://better-poggit.vercel.app/p/ChatRange/0.0.1</loc>
   <lastmod>2023-02-25T03:50:07+00:00</lastmod>
   <priority>0.13</priority>
 </url>
 <url>
-  <loc>https://better-poggit.hop.sh/p/PlayerScale/1.0.0</loc>
+  <loc>https://better-poggit.vercel.app/p/PlayerScale/1.0.0</loc>
   <lastmod>2023-02-25T03:50:07+00:00</lastmod>
   <priority>0.13</priority>
 </url>
 <url>
-  <loc>https://better-poggit.hop.sh/p/BetterHomes/1.0.0</loc>
+  <loc>https://better-poggit.vercel.app/p/BetterHomes/1.0.0</loc>
   <lastmod>2023-02-25T03:50:07+00:00</lastmod>
   <priority>0.13</priority>
 </url>
 <url>
-  <loc>https://better-poggit.hop.sh/p/PlayCommand/1.0.0</loc>
+  <loc>https://better-poggit.vercel.app/p/PlayCommand/1.0.0</loc>
   <lastmod>2023-02-25T03:50:07+00:00</lastmod>
   <priority>0.13</priority>
 </url>
 <url>
-  <loc>https://better-poggit.hop.sh/plugins/page/29</loc>
+  <loc>https://better-poggit.vercel.app/plugins/page/29</loc>
   <lastmod>2023-02-25T03:50:07+00:00</lastmod>
   <priority>0.13</priority>
 </url>
 <url>
-  <loc>https://better-poggit.hop.sh/p/BlockPets/2.0.2</loc>
+  <loc>https://better-poggit.vercel.app/p/BlockPets/2.0.2</loc>
   <lastmod>2023-02-25T03:50:07+00:00</lastmod>
   <priority>0.11</priority>
 </url>
 <url>
-  <loc>https://better-poggit.hop.sh/p/InvSee/2.2.3</loc>
+  <loc>https://better-poggit.vercel.app/p/InvSee/2.2.3</loc>
   <lastmod>2023-02-25T03:50:07+00:00</lastmod>
   <priority>0.11</priority>
 </url>
 <url>
-  <loc>https://better-poggit.hop.sh/p/ProperDuels/2.2.0</loc>
+  <loc>https://better-poggit.vercel.app/p/ProperDuels/2.2.0</loc>
   <lastmod>2023-02-25T03:50:07+00:00</lastmod>
   <priority>0.11</priority>
 </url>
 <url>
-  <loc>https://better-poggit.hop.sh/p/CustomItemAPI/3.3.0</loc>
+  <loc>https://better-poggit.vercel.app/p/CustomItemAPI/3.3.0</loc>
   <lastmod>2023-02-25T03:50:07+00:00</lastmod>
   <priority>0.11</priority>
 </url>
 <url>
-  <loc>https://better-poggit.hop.sh/p/KygekPingTPS/2.0.1</loc>
+  <loc>https://better-poggit.vercel.app/p/KygekPingTPS/2.0.1</loc>
   <lastmod>2023-02-25T03:50:07+00:00</lastmod>
   <priority>0.11</priority>
 </url>
 <url>
-  <loc>https://better-poggit.hop.sh/p/AcidIsland/0.0.2</loc>
+  <loc>https://better-poggit.vercel.app/p/AcidIsland/0.0.2</loc>
   <lastmod>2023-02-25T03:50:07+00:00</lastmod>
   <priority>0.11</priority>
 </url>
 <url>
-  <loc>https://better-poggit.hop.sh/p/CalculatorACM/1.0.1</loc>
+  <loc>https://better-poggit.vercel.app/p/CalculatorACM/1.0.1</loc>
   <lastmod>2023-02-25T03:50:07+00:00</lastmod>
   <priority>0.11</priority>
 </url>
 <url>
-  <loc>https://better-poggit.hop.sh/p/CB-Heads/4.1</loc>
+  <loc>https://better-poggit.vercel.app/p/CB-Heads/4.1</loc>
   <lastmod>2023-02-25T03:50:07+00:00</lastmod>
   <priority>0.11</priority>
 </url>
 <url>
-  <loc>https://better-poggit.hop.sh/p/GroupJoin/1.1.0</loc>
+  <loc>https://better-poggit.vercel.app/p/GroupJoin/1.1.0</loc>
   <lastmod>2023-02-25T03:50:07+00:00</lastmod>
   <priority>0.11</priority>
 </url>
 <url>
-  <loc>https://better-poggit.hop.sh/p/EasyWing/1.0.7</loc>
+  <loc>https://better-poggit.vercel.app/p/EasyWing/1.0.7</loc>
   <lastmod>2023-02-25T03:50:07+00:00</lastmod>
   <priority>0.11</priority>
 </url>
 <url>
-  <loc>https://better-poggit.hop.sh/plugins/page/12</loc>
+  <loc>https://better-poggit.vercel.app/plugins/page/12</loc>
   <lastmod>2023-02-25T03:50:07+00:00</lastmod>
   <priority>0.11</priority>
 </url>
 <url>
-  <loc>https://better-poggit.hop.sh/p/CustomItemCMD/0.3</loc>
+  <loc>https://better-poggit.vercel.app/p/CustomItemCMD/0.3</loc>
   <lastmod>2023-02-25T03:50:07+00:00</lastmod>
   <priority>0.11</priority>
 </url>
 <url>
-  <loc>https://better-poggit.hop.sh/p/is_/1.0.0</loc>
+  <loc>https://better-poggit.vercel.app/p/is_/1.0.0</loc>
   <lastmod>2023-02-25T03:50:07+00:00</lastmod>
   <priority>0.11</priority>
 </url>
 <url>
-  <loc>https://better-poggit.hop.sh/p/PortableCrates/2.1.1</loc>
+  <loc>https://better-poggit.vercel.app/p/PortableCrates/2.1.1</loc>
   <lastmod>2023-02-25T03:50:07+00:00</lastmod>
   <priority>0.11</priority>
 </url>
 <url>
-  <loc>https://better-poggit.hop.sh/p/CustomShopUI/5.0.3</loc>
+  <loc>https://better-poggit.vercel.app/p/CustomShopUI/5.0.3</loc>
   <lastmod>2023-02-25T03:50:07+00:00</lastmod>
   <priority>0.11</priority>
 </url>
 <url>
-  <loc>https://better-poggit.hop.sh/p/HangGlider-HiroTeam/1.0.5</loc>
+  <loc>https://better-poggit.vercel.app/p/HangGlider-HiroTeam/1.0.5</loc>
   <lastmod>2023-02-25T03:50:07+00:00</lastmod>
   <priority>0.11</priority>
 </url>
 <url>
-  <loc>https://better-poggit.hop.sh/p/Nuke/1.0.4</loc>
+  <loc>https://better-poggit.vercel.app/p/Nuke/1.0.4</loc>
   <lastmod>2023-02-25T03:50:07+00:00</lastmod>
   <priority>0.11</priority>
 </url>
 <url>
-  <loc>https://better-poggit.hop.sh/p/SimpleLay/3.0.1</loc>
+  <loc>https://better-poggit.vercel.app/p/SimpleLay/3.0.1</loc>
   <lastmod>2023-02-25T03:50:07+00:00</lastmod>
   <priority>0.11</priority>
 </url>
 <url>
-  <loc>https://better-poggit.hop.sh/p/EcoAPIScore/1.1.0</loc>
+  <loc>https://better-poggit.vercel.app/p/EcoAPIScore/1.1.0</loc>
   <lastmod>2023-02-25T03:50:07+00:00</lastmod>
   <priority>0.11</priority>
 </url>
 <url>
-  <loc>https://better-poggit.hop.sh/p/ProtectYourSpawn/2.0.1</loc>
+  <loc>https://better-poggit.vercel.app/p/ProtectYourSpawn/2.0.1</loc>
   <lastmod>2023-02-25T03:50:07+00:00</lastmod>
   <priority>0.11</priority>
 </url>
 <url>
-  <loc>https://better-poggit.hop.sh/p/SignIt/3.1.1</loc>
+  <loc>https://better-poggit.vercel.app/p/SignIt/3.1.1</loc>
   <lastmod>2023-02-25T03:50:07+00:00</lastmod>
   <priority>0.11</priority>
 </url>
 <url>
-  <loc>https://better-poggit.hop.sh/plugins/page/28</loc>
+  <loc>https://better-poggit.vercel.app/plugins/page/28</loc>
   <lastmod>2023-02-25T03:50:07+00:00</lastmod>
   <priority>0.11</priority>
 </url>
 <url>
-  <loc>https://better-poggit.hop.sh/p/DeathPosition/1.2</loc>
+  <loc>https://better-poggit.vercel.app/p/DeathPosition/1.2</loc>
   <lastmod>2023-02-25T03:50:07+00:00</lastmod>
   <priority>0.11</priority>
 </url>
 <url>
-  <loc>https://better-poggit.hop.sh/p/AllSigns/2.0.2</loc>
+  <loc>https://better-poggit.vercel.app/p/AllSigns/2.0.2</loc>
   <lastmod>2023-02-25T03:50:07+00:00</lastmod>
   <priority>0.11</priority>
 </url>
 <url>
-  <loc>https://better-poggit.hop.sh/p/FindPlayers/1.0.0</loc>
+  <loc>https://better-poggit.vercel.app/p/FindPlayers/1.0.0</loc>
   <lastmod>2023-02-25T03:50:07+00:00</lastmod>
   <priority>0.11</priority>
 </url>
 <url>
-  <loc>https://better-poggit.hop.sh/p/NicknameColors/1.1</loc>
+  <loc>https://better-poggit.vercel.app/p/NicknameColors/1.1</loc>
   <lastmod>2023-02-25T03:50:07+00:00</lastmod>
   <priority>0.11</priority>
 </url>
 <url>
-  <loc>https://better-poggit.hop.sh/p/NoChangeSkin/0.0.1</loc>
+  <loc>https://better-poggit.vercel.app/p/NoChangeSkin/0.0.1</loc>
   <lastmod>2023-02-25T03:50:07+00:00</lastmod>
   <priority>0.11</priority>
 </url>
 <url>
-  <loc>https://better-poggit.hop.sh/p/BloodInMC/1.0.0</loc>
+  <loc>https://better-poggit.vercel.app/p/BloodInMC/1.0.0</loc>
   <lastmod>2023-02-25T03:50:07+00:00</lastmod>
   <priority>0.11</priority>
 </url>
 <url>
-  <loc>https://better-poggit.hop.sh/p/HubSpawn/2.0</loc>
+  <loc>https://better-poggit.vercel.app/p/HubSpawn/2.0</loc>
   <lastmod>2023-02-25T03:50:07+00:00</lastmod>
   <priority>0.11</priority>
 </url>
 <url>
-  <loc>https://better-poggit.hop.sh/p/NoCraft/0.0.1</loc>
+  <loc>https://better-poggit.vercel.app/p/NoCraft/0.0.1</loc>
   <lastmod>2023-02-25T03:50:07+00:00</lastmod>
   <priority>0.11</priority>
 </url>
 <url>
-  <loc>https://better-poggit.hop.sh/p/CreateDelCraft-HiroTeam/1.5.0</loc>
+  <loc>https://better-poggit.vercel.app/p/CreateDelCraft-HiroTeam/1.5.0</loc>
   <lastmod>2023-02-25T03:50:07+00:00</lastmod>
   <priority>0.11</priority>
 </url>
 <url>
-  <loc>https://better-poggit.hop.sh/p/VanishV2/3.1.0</loc>
+  <loc>https://better-poggit.vercel.app/p/VanishV2/3.1.0</loc>
   <lastmod>2023-02-25T03:50:07+00:00</lastmod>
   <priority>0.11</priority>
 </url>
 <url>
-  <loc>https://better-poggit.hop.sh/plugins/page/27</loc>
+  <loc>https://better-poggit.vercel.app/plugins/page/27</loc>
   <lastmod>2023-02-25T03:50:07+00:00</lastmod>
   <priority>0.11</priority>
 </url>
 <url>
-  <loc>https://better-poggit.hop.sh/p/NoSpectatorHitSound/1.0.0</loc>
+  <loc>https://better-poggit.vercel.app/p/NoSpectatorHitSound/1.0.0</loc>
   <lastmod>2023-02-25T03:50:07+00:00</lastmod>
   <priority>0.09</priority>
 </url>
 <url>
-  <loc>https://better-poggit.hop.sh/p/tpAllPlayers/1.0.0</loc>
+  <loc>https://better-poggit.vercel.app/p/tpAllPlayers/1.0.0</loc>
   <lastmod>2023-02-25T03:50:07+00:00</lastmod>
   <priority>0.09</priority>
 </url>
 <url>
-  <loc>https://better-poggit.hop.sh/p/Reports/2.0.0</loc>
+  <loc>https://better-poggit.vercel.app/p/Reports/2.0.0</loc>
   <lastmod>2023-02-25T03:50:07+00:00</lastmod>
   <priority>0.09</priority>
 </url>
 <url>
-  <loc>https://better-poggit.hop.sh/p/CSkull/1.1.0</loc>
+  <loc>https://better-poggit.vercel.app/p/CSkull/1.1.0</loc>
   <lastmod>2023-02-25T03:50:07+00:00</lastmod>
   <priority>0.09</priority>
 </url>
 <url>
-  <loc>https://better-poggit.hop.sh/p/Relics/2.0.2</loc>
+  <loc>https://better-poggit.vercel.app/p/Relics/2.0.2</loc>
   <lastmod>2023-02-25T03:50:07+00:00</lastmod>
   <priority>0.09</priority>
 </url>
 <url>
-  <loc>https://better-poggit.hop.sh/p/VanillaEC/0.0.2</loc>
+  <loc>https://better-poggit.vercel.app/p/VanillaEC/0.0.2</loc>
   <lastmod>2023-02-25T03:50:07+00:00</lastmod>
   <priority>0.09</priority>
 </url>
 <url>
-  <loc>https://better-poggit.hop.sh/p/BMPingTag/1.0.0</loc>
+  <loc>https://better-poggit.vercel.app/p/BMPingTag/1.0.0</loc>
   <lastmod>2023-02-25T03:50:07+00:00</lastmod>
   <priority>0.09</priority>
 </url>
 <url>
-  <loc>https://better-poggit.hop.sh/p/FreezeSystem/1.0</loc>
+  <loc>https://better-poggit.vercel.app/p/FreezeSystem/1.0</loc>
   <lastmod>2023-02-25T03:50:07+00:00</lastmod>
   <priority>0.09</priority>
 </url>
 <url>
-  <loc>https://better-poggit.hop.sh/p/PlayerGrave/1.0.0</loc>
+  <loc>https://better-poggit.vercel.app/p/PlayerGrave/1.0.0</loc>
   <lastmod>2023-02-25T03:50:07+00:00</lastmod>
   <priority>0.09</priority>
 </url>
 <url>
-  <loc>https://better-poggit.hop.sh/p/AdvancedItem/1.0.0</loc>
+  <loc>https://better-poggit.vercel.app/p/AdvancedItem/1.0.0</loc>
   <lastmod>2023-02-25T03:50:07+00:00</lastmod>
   <priority>0.09</priority>
 </url>
 <url>
-  <loc>https://better-poggit.hop.sh/plugins/page/13</loc>
+  <loc>https://better-poggit.vercel.app/plugins/page/13</loc>
   <lastmod>2023-02-25T03:50:07+00:00</lastmod>
   <priority>0.09</priority>
 </url>
 <url>
-  <loc>https://better-poggit.hop.sh/p/PocKit/1.2.0</loc>
+  <loc>https://better-poggit.vercel.app/p/PocKit/1.2.0</loc>
   <lastmod>2023-02-25T03:50:07+00:00</lastmod>
   <priority>0.09</priority>
 </url>
 <url>
-  <loc>https://better-poggit.hop.sh/p/TNTExplodeTime/1.0.1</loc>
+  <loc>https://better-poggit.vercel.app/p/TNTExplodeTime/1.0.1</loc>
   <lastmod>2023-02-25T03:50:07+00:00</lastmod>
   <priority>0.09</priority>
 </url>
 <url>
-  <loc>https://better-poggit.hop.sh/p/MuteAll/1.1.0</loc>
+  <loc>https://better-poggit.vercel.app/p/MuteAll/1.1.0</loc>
   <lastmod>2023-02-25T03:50:07+00:00</lastmod>
   <priority>0.09</priority>
 </url>
 <url>
-  <loc>https://better-poggit.hop.sh/p/LaunchableTNT/1.0.2</loc>
+  <loc>https://better-poggit.vercel.app/p/LaunchableTNT/1.0.2</loc>
   <lastmod>2023-02-25T03:50:07+00:00</lastmod>
   <priority>0.09</priority>
 </url>
 <url>
-  <loc>https://better-poggit.hop.sh/p/Capital/0.1.1-beta1</loc>
+  <loc>https://better-poggit.vercel.app/p/Capital/0.1.1-beta1</loc>
   <lastmod>2023-02-25T03:50:07+00:00</lastmod>
   <priority>0.09</priority>
 </url>
 <url>
-  <loc>https://better-poggit.hop.sh/p/Elevator/1.1.0</loc>
+  <loc>https://better-poggit.vercel.app/p/Elevator/1.1.0</loc>
   <lastmod>2023-02-25T03:50:07+00:00</lastmod>
   <priority>0.09</priority>
 </url>
 <url>
-  <loc>https://better-poggit.hop.sh/p/Announce/1.0.0</loc>
+  <loc>https://better-poggit.vercel.app/p/Announce/1.0.0</loc>
   <lastmod>2023-02-25T03:50:07+00:00</lastmod>
   <priority>0.09</priority>
 </url>
 <url>
-  <loc>https://better-poggit.hop.sh/p/ElevatorsPM4/2.0.0</loc>
+  <loc>https://better-poggit.vercel.app/p/ElevatorsPM4/2.0.0</loc>
   <lastmod>2023-02-25T03:50:07+00:00</lastmod>
   <priority>0.09</priority>
 </url>
 <url>
-  <loc>https://better-poggit.hop.sh/p/Spider/0.2</loc>
+  <loc>https://better-poggit.vercel.app/p/Spider/0.2</loc>
   <lastmod>2023-02-25T03:50:07+00:00</lastmod>
   <priority>0.09</priority>
 </url>
 <url>
-  <loc>https://better-poggit.hop.sh/p/WhaleAlert/1.0.2</loc>
+  <loc>https://better-poggit.vercel.app/p/WhaleAlert/1.0.2</loc>
   <lastmod>2023-02-25T03:50:07+00:00</lastmod>
   <priority>0.09</priority>
 </url>
 <url>
-  <loc>https://better-poggit.hop.sh/plugins/page/26</loc>
+  <loc>https://better-poggit.vercel.app/plugins/page/26</loc>
   <lastmod>2023-02-25T03:50:07+00:00</lastmod>
   <priority>0.09</priority>
 </url>
 <url>
-  <loc>https://better-poggit.hop.sh/p/AllSigns/CONTRIBUTING.md</loc>
+  <loc>https://better-poggit.vercel.app/p/AllSigns/CONTRIBUTING.md</loc>
   <lastmod>2023-02-25T03:50:07+00:00</lastmod>
   <priority>0.09</priority>
 </url>
 <url>
-  <loc>https://better-poggit.hop.sh/p/AutoClearChunk/2.2.1</loc>
+  <loc>https://better-poggit.vercel.app/p/AutoClearChunk/2.2.1</loc>
   <lastmod>2023-02-25T03:50:07+00:00</lastmod>
   <priority>0.09</priority>
 </url>
 <url>
-  <loc>https://better-poggit.hop.sh/p/Netherite/2.3</loc>
+  <loc>https://better-poggit.vercel.app/p/Netherite/2.3</loc>
   <lastmod>2023-02-25T03:50:07+00:00</lastmod>
   <priority>0.09</priority>
 </url>
 <url>
-  <loc>https://better-poggit.hop.sh/p/PureChat/2.0.1</loc>
+  <loc>https://better-poggit.vercel.app/p/PureChat/2.0.1</loc>
   <lastmod>2023-02-25T03:50:07+00:00</lastmod>
   <priority>0.09</priority>
 </url>
 <url>
-  <loc>https://better-poggit.hop.sh/p/PearlCooldownPro/6.9.420-notBeta</loc>
+  <loc>https://better-poggit.vercel.app/p/PearlCooldownPro/6.9.420-notBeta</loc>
   <lastmod>2023-02-25T03:50:07+00:00</lastmod>
   <priority>0.09</priority>
 </url>
 <url>
-  <loc>https://better-poggit.hop.sh/p/PurePerms/2.0.2</loc>
+  <loc>https://better-poggit.vercel.app/p/PurePerms/2.0.2</loc>
   <lastmod>2023-02-25T03:50:07+00:00</lastmod>
   <priority>0.09</priority>
 </url>
 <url>
-  <loc>https://better-poggit.hop.sh/p/Wilderness/2.1.2</loc>
+  <loc>https://better-poggit.vercel.app/p/Wilderness/2.1.2</loc>
   <lastmod>2023-02-25T03:50:07+00:00</lastmod>
   <priority>0.09</priority>
 </url>
 <url>
-  <loc>https://better-poggit.hop.sh/p/EasyCommandAutofill/3.0.2</loc>
+  <loc>https://better-poggit.vercel.app/p/EasyCommandAutofill/3.0.2</loc>
   <lastmod>2023-02-25T03:50:07+00:00</lastmod>
   <priority>0.09</priority>
 </url>
 <url>
-  <loc>https://better-poggit.hop.sh/p/VirionTools/4.0.1</loc>
+  <loc>https://better-poggit.vercel.app/p/VirionTools/4.0.1</loc>
   <lastmod>2023-02-25T03:50:07+00:00</lastmod>
   <priority>0.09</priority>
 </url>
 <url>
-  <loc>https://better-poggit.hop.sh/p/PersonaAdapter/1.0.1</loc>
+  <loc>https://better-poggit.vercel.app/p/PersonaAdapter/1.0.1</loc>
   <lastmod>2023-02-25T03:50:07+00:00</lastmod>
   <priority>0.09</priority>
 </url>
 <url>
-  <loc>https://better-poggit.hop.sh/p/EmoteSimple/1.8.3</loc>
+  <loc>https://better-poggit.vercel.app/p/EmoteSimple/1.8.3</loc>
   <lastmod>2023-02-25T03:50:07+00:00</lastmod>
   <priority>0.09</priority>
 </url>
 <url>
-  <loc>https://better-poggit.hop.sh/plugins/page/25</loc>
+  <loc>https://better-poggit.vercel.app/plugins/page/25</loc>
   <lastmod>2023-02-25T03:50:07+00:00</lastmod>
   <priority>0.09</priority>
 </url>
 <url>
-  <loc>https://better-poggit.hop.sh/p/FFA/1.0.3</loc>
+  <loc>https://better-poggit.vercel.app/p/FFA/1.0.3</loc>
   <lastmod>2023-02-25T03:50:07+00:00</lastmod>
   <priority>0.07</priority>
 </url>
 <url>
-  <loc>https://better-poggit.hop.sh/p/GroupsAPI/2.0.0</loc>
+  <loc>https://better-poggit.vercel.app/p/GroupsAPI/2.0.0</loc>
   <lastmod>2023-02-25T03:50:07+00:00</lastmod>
   <priority>0.07</priority>
 </url>
 <url>
-  <loc>https://better-poggit.hop.sh/p/SpectreZone/1.0.3</loc>
+  <loc>https://better-poggit.vercel.app/p/SpectreZone/1.0.3</loc>
   <lastmod>2023-02-25T03:50:07+00:00</lastmod>
   <priority>0.07</priority>
 </url>
 <url>
-  <loc>https://better-poggit.hop.sh/p/BossBar/2.0.0</loc>
+  <loc>https://better-poggit.vercel.app/p/BossBar/2.0.0</loc>
   <lastmod>2023-02-25T03:50:07+00:00</lastmod>
   <priority>0.07</priority>
 </url>
 <url>
-  <loc>https://better-poggit.hop.sh/p/InvisibleSkinBlocker/1.0.0</loc>
+  <loc>https://better-poggit.vercel.app/p/InvisibleSkinBlocker/1.0.0</loc>
   <lastmod>2023-02-25T03:50:07+00:00</lastmod>
   <priority>0.07</priority>
 </url>
 <url>
-  <loc>https://better-poggit.hop.sh/p/EpicCustomAlerts/0.0.2</loc>
+  <loc>https://better-poggit.vercel.app/p/EpicCustomAlerts/0.0.2</loc>
   <lastmod>2023-02-25T03:50:07+00:00</lastmod>
   <priority>0.07</priority>
 </url>
 <url>
-  <loc>https://better-poggit.hop.sh/p/BlockSoundsPM/1.0.0</loc>
+  <loc>https://better-poggit.vercel.app/p/BlockSoundsPM/1.0.0</loc>
   <lastmod>2023-02-25T03:50:07+00:00</lastmod>
   <priority>0.07</priority>
 </url>
 <url>
-  <loc>https://better-poggit.hop.sh/p/TPAll-PM4/1.3</loc>
+  <loc>https://better-poggit.vercel.app/p/TPAll-PM4/1.3</loc>
   <lastmod>2023-02-25T03:50:07+00:00</lastmod>
   <priority>0.07</priority>
 </url>
 <url>
-  <loc>https://better-poggit.hop.sh/p/GrapplingHook/1.0.1</loc>
+  <loc>https://better-poggit.vercel.app/p/GrapplingHook/1.0.1</loc>
   <lastmod>2023-02-25T03:50:07+00:00</lastmod>
   <priority>0.07</priority>
 </url>
 <url>
-  <loc>https://better-poggit.hop.sh/p/SmeltingAccelerator/1.0.1</loc>
+  <loc>https://better-poggit.vercel.app/p/SmeltingAccelerator/1.0.1</loc>
   <lastmod>2023-02-25T03:50:07+00:00</lastmod>
   <priority>0.07</priority>
 </url>
 <url>
-  <loc>https://better-poggit.hop.sh/plugins/page/14</loc>
+  <loc>https://better-poggit.vercel.app/plugins/page/14</loc>
   <lastmod>2023-02-25T03:50:07+00:00</lastmod>
   <priority>0.07</priority>
 </url>
 <url>
-  <loc>https://better-poggit.hop.sh/p/Capital/dev.md</loc>
+  <loc>https://better-poggit.vercel.app/p/Capital/dev.md</loc>
   <lastmod>2023-02-25T03:50:07+00:00</lastmod>
   <priority>0.07</priority>
 </url>
 <url>
-  <loc>https://better-poggit.hop.sh/p/ItemUtils/1.1.1</loc>
+  <loc>https://better-poggit.vercel.app/p/ItemUtils/1.1.1</loc>
   <lastmod>2023-02-25T03:50:07+00:00</lastmod>
   <priority>0.07</priority>
 </url>
 <url>
-  <loc>https://better-poggit.hop.sh/p/NoAdvertisings/0.0.6</loc>
+  <loc>https://better-poggit.vercel.app/p/NoAdvertisings/0.0.6</loc>
   <lastmod>2023-02-25T03:50:07+00:00</lastmod>
   <priority>0.07</priority>
 </url>
 <url>
-  <loc>https://better-poggit.hop.sh/p/CommandSpy/1.0.4</loc>
+  <loc>https://better-poggit.vercel.app/p/CommandSpy/1.0.4</loc>
   <lastmod>2023-02-25T03:50:07+00:00</lastmod>
   <priority>0.07</priority>
 </url>

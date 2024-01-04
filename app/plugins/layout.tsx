@@ -4,24 +4,14 @@ import React from 'react';
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
-  title: 'BetterPoggit - High Quality PocketMine Plugins',
+  title: 'Plugins - BetterPoggit',
   description: 'We have a wide variety of plugins for PocketMine-MP, including Economy, PvP, and more!',
   openGraph: {
     type: 'website',
     url: 'https://better-poggit.vercel.app/',
     title: 'BetterPoggit - High Quality PocketMine Plugins',
-    description: 'We have a wide variety of plugins for PocketMine-MP, including Economy, PvP, and more!',
-    images: [
-      {
-        url: '',
-      },
-    ],
-  },
-  twitter: {
-    card: 'summary_large_image',
-    title: 'BetterPoggit - High Quality PocketMine Plugins',
-    description: 'We have a wide variety of plugins for PocketMine-MP, including Economy, PvP, and more!',
-  },
+    description: 'We have a wide variety of plugins for PocketMine-MP, including Economy, PvP, and more!'
+  }
 };
 
 export default function RootLayout({ children }: {

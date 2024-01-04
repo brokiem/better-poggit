@@ -6,6 +6,7 @@ import rehypeRaw from 'rehype-raw'
 import '../../../../styles/github-markdown.css'
 import Image from 'next/image';
 import { getPlugins, getReadmeContents } from '../../../../lib/data';
+import { Metadata } from 'next';
 
 async function getPlugin(name: string, version: string): Promise<Plugin | undefined> {
   const plugins: Plugin[] = await getPlugins();
@@ -15,6 +16,22 @@ async function getPlugin(name: string, version: string): Promise<Plugin | undefi
 
 async function renderMarkdown(markdown: string): Promise<JSX.Element> {
   return <ReactMarkdown children={markdown} remarkPlugins={[remarkGfm]} rehypePlugins={[rehypeRaw]} />;
+}
+
+export async function generateMetadata({ params }: { params: { plugin: string, version: string } }): Promise<Metadata> {
+  const plugin = await getPlugin(params.plugin, params.version);
+
+  return {
+    title: plugin?.name + " v" + plugin?.version + " by " + plugin?.repo_name.split("/")[0] + " - BetterPoggit",
+    description: plugin?.name + " v" + plugin?.version + " by " + plugin?.repo_name.split("/")[0] + " - BetterPoggit",
+    openGraph: {
+      type: "website",
+      url: "https://better-poggit.vercel.app/",
+      title: plugin?.name + " v" + plugin?.version + " by " + plugin?.repo_name.split("/")[0] + " - BetterPoggit",
+      description: plugin?.tagline,
+      images: plugin?.icon_url
+    }
+  };
 }
 
 export default async function Page({ params }: { params: { plugin: string, version: string } }) {
