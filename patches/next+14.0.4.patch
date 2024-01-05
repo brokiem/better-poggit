@@ -1,0 +1,36 @@
+diff --git a/node_modules/next/dist/esm/server/lib/incremental-cache/index.js b/node_modules/next/dist/esm/server/lib/incremental-cache/index.js
+index e622976..456a573 100644
+--- a/node_modules/next/dist/esm/server/lib/incremental-cache/index.js
++++ b/node_modules/next/dist/esm/server/lib/incremental-cache/index.js
+@@ -349,12 +349,7 @@ export class IncrementalCache {
+         }
+         if (this.dev && !ctx.fetchCache) return;
+         // fetchCache has upper limit of 2MB per-entry currently
+-        if (ctx.fetchCache && JSON.stringify(data).length > 2 * 1024 * 1024) {
+-            if (this.dev) {
+-                throw new Error(`fetch for over 2MB of data can not be cached`);
+-            }
+-            return;
+-        }
++
+         pathname = this._getPathname(pathname, ctx.fetchCache);
+         try {
+             var _this_cacheHandler;
+diff --git a/node_modules/next/dist/server/lib/incremental-cache/index.js b/node_modules/next/dist/server/lib/incremental-cache/index.js
+index 9f2935f..a3fce74 100644
+--- a/node_modules/next/dist/server/lib/incremental-cache/index.js
++++ b/node_modules/next/dist/server/lib/incremental-cache/index.js
+@@ -376,12 +376,7 @@ class IncrementalCache {
+         }
+         if (this.dev && !ctx.fetchCache) return;
+         // fetchCache has upper limit of 2MB per-entry currently
+-        if (ctx.fetchCache && JSON.stringify(data).length > 2 * 1024 * 1024) {
+-            if (this.dev) {
+-                throw new Error(`fetch for over 2MB of data can not be cached`);
+-            }
+-            return;
+-        }
++
+         pathname = this._getPathname(pathname, ctx.fetchCache);
+         try {
+             var _this_cacheHandler;
