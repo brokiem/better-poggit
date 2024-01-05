@@ -16,7 +16,7 @@ function isApiCompatibleWithRelease(plugin: Plugin, release: PocketMineRelease):
 }
 
 async function sortPlugins(): Promise<Plugin[]> {
-  const [plugins, pocketMineRelease]: [Plugin[], PocketMineRelease] = await Promise.all([
+  const [plugins, pocketMineRelease] = await Promise.all([
     getPlugins(),
     getPocketMineRelease()
   ]);

@@ -1,25 +1,18 @@
 import Navbar from '@/components/navbar/Navbar';
-import Plugin from '../../../../types/Plugin';
 import ReactMarkdown from 'react-markdown';
 import remarkGfm from 'remark-gfm'
 import rehypeRaw from 'rehype-raw'
 import '../../../../styles/github-markdown.css'
 import Image from 'next/image';
-import { getPlugins, getReadmeContents } from '../../../../lib/data';
+import { getPlugin, getReadmeContents } from '../../../../lib/data';
 import { Metadata } from 'next';
-
-async function getPlugin(name: string, version: string): Promise<Plugin | undefined> {
-  const plugins: Plugin[] = await getPlugins();
-
-  return plugins.find(obj => obj.name === name && obj.version === version);
-}
 
 async function renderMarkdown(markdown: string): Promise<JSX.Element> {
   return <ReactMarkdown children={markdown} remarkPlugins={[remarkGfm]} rehypePlugins={[rehypeRaw]} />;
 }
 
 export async function generateMetadata({ params }: { params: { plugin: string, version: string } }): Promise<Metadata> {
-  const plugin = await getPlugin(params.plugin, params.version);
+  const plugin = (await getPlugin(params.plugin, params.version))[0];
 
   return {
     title: plugin?.name + " v" + plugin?.version + " by " + plugin?.repo_name.split("/")[0] + " - BetterPoggit",
@@ -35,7 +28,7 @@ export async function generateMetadata({ params }: { params: { plugin: string, v
 }
 
 export default async function Page({ params }: { params: { plugin: string, version: string } }) {
-  const plugin = await getPlugin(params.plugin, params.version);
+  const plugin = (await getPlugin(params.plugin, params.version))[0];
 
   if (!plugin) {
     return <h1>Plugin not found</h1>;
