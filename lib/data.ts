@@ -10,7 +10,7 @@ if (!POGGIT_API_URL) {
 
 export async function getPlugins() {
   // @ts-ignore
-  const res = await fetch(POGGIT_API_URL, { cache: 'no-cache' });
+  const res = await fetch(POGGIT_API_URL, { next: { revalidate: 1600 } });
 
   if (!res.ok) {
     throw new Error('Failed to fetch data');
